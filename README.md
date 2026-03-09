@@ -1,60 +1,27 @@
-# Web Scraper + IA para Tiendas Colombianas
+# Web Scraper con IA para Tiendas Colombianas
 
 **Autor:** Joan Steven Gonzalez Maldonado
 
-Sistema de web scraping para extraer productos de tiendas colombianas (Éxito, Alkosto, Falabella) con análisis automático usando modelos de IA locales como Ollama o LM Studio.
+Hice este proyecto para extraer productos de tiendas como Éxito, Alkosto y Falabella, y luego analizar los datos con inteligencia artificial usando Ollama o LM Studio.
 
 ---
 
-## Qué hace este proyecto
+## Qué hace
 
-- Extrae productos de las principales tiendas de e-commerce en Colombia
-- Soporta Ollama y LM Studio como proveedores de IA (intercambiables)
-- Genera archivos JSON/CSV con los productos
-- Crea un resumen con análisis de IA en Markdown
-- Implementa 3 patrones de diseño: Strategy, Factory y Template Method
-
----
-
-## Estructura del proyecto
-
-```
-├── src/
-│   ├── Domain/                    # Capa de dominio
-│   │   ├── Entities/              # Product, AIResponse
-│   │   ├── Interfaces/            # Contratos abstractos
-│   │   └── ValueObjects/          # Configuraciones
-│   │
-│   ├── Application/               # Casos de uso
-│   │   ├── UseCases/              # ScrapingUseCase, AIAnalysisUseCase
-│   │   ├── DTOs/                  # Objetos de transferencia
-│   │   └── Services/              # Servicios de aplicación
-│   │
-│   ├── Infrastructure/            # Implementaciones concretas
-│   │   ├── Repositories/          # Scrapers (Éxito, Alkosto, Falabella)
-│   │   └── ExternalServices/      # Estrategias LLM (Ollama, LM Studio)
-│   │
-│   └── Presentation/              # Interfaz CLI
-│       └── Controllers/           # Controlador de línea de comandos
-│
-├── tests/                         # Tests unitarios e integración
-├── output/                        # Archivos generados
-├── config.json                    # Configuración opcional
-└── requirements.txt               # Dependencias
-```
+- Extrae productos (nombre, precio, URL) de tiendas colombianas
+- Analiza los datos con IA local (Ollama o LM Studio)
+- Genera un archivo JSON o CSV con los productos
+- Crea un resumen en Markdown con el análisis de la IA
 
 ---
 
-## Patrones de diseño implementados
+## Requisitos previos
 
-### 1. Strategy Pattern
-Permite cambiar el proveedor de IA (Ollama o LM Studio) sin modificar el código. Las estrategias están en `Infrastructure/ExternalServices/`.
+Antes de empezar necesitas tener instalado:
 
-### 2. Factory Pattern  
-Crea el scraper correcto según la tienda seleccionada. Implementado en `Infrastructure/Repositories/scraper_factory.py`.
-
-### 3. Template Method Pattern
-Define el algoritmo base de scraping. Cada tienda implementa sus propios selectores. Ver `Infrastructure/Repositories/base_scraper.py`.
+- **Python 3.10 o superior** - [Descargar aquí](https://www.python.org/downloads/)
+- **Google Chrome** - El scraper usa Selenium con Chrome
+- **Ollama** (opcional, para análisis con IA) - [Descargar aquí](https://ollama.ai)
 
 ---
 
@@ -62,43 +29,50 @@ Define el algoritmo base de scraping. Cada tienda implementa sus propios selecto
 
 ### 1. Clonar el repositorio
 
+Abre una terminal y ejecuta:
+
 ```bash
-git clone https://github.com/tu-usuario/web-scraper-ia-colombia.git
-cd web-scraper-ia-colombia
+git clone https://github.com/joanstevegonzalezmaldonado-creator/Repo-prueba-t-cnica-.git
+cd Repo-prueba-t-cnica-
 ```
 
-### 2. Crear entorno virtual
+### 2. Crear el entorno virtual
 
+En Windows:
 ```bash
 python -m venv .venv
-```
-
-Activar en Windows:
-```bash
 .venv\Scripts\activate
 ```
 
-Activar en Linux/Mac:
+En Linux/Mac:
 ```bash
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-### 3. Instalar dependencias
+Deberías ver `(.venv)` al inicio de tu terminal, eso significa que el entorno está activo.
+
+### 3. Instalar las dependencias
 
 ```bash
 pip install -r requirements.txt
 ```
 
+Esto instala BeautifulSoup, Selenium, Requests y las demás librerías necesarias.
+
 ### 4. Instalar Ollama (para el análisis con IA)
 
-Descargar desde: https://ollama.ai
+Si quieres usar el análisis con IA, necesitas Ollama:
 
-Una vez instalado, descargar un modelo:
+1. Descarga Ollama desde https://ollama.ai
+2. Instálalo y ábrelo
+3. Descarga un modelo ejecutando en terminal:
+
 ```bash
 ollama pull llama3.2
 ```
 
-Verificar que está corriendo:
+Puedes verificar que está funcionando con:
 ```bash
 ollama list
 ```
@@ -109,43 +83,45 @@ ollama list
 
 ### Ejecución básica
 
+Para extraer celulares de Éxito y analizarlos con IA:
+
 ```bash
 python -m src.main --stores exito --category celulares --pages 1 --provider ollama --model llama3.2
 ```
 
-### Parámetros disponibles
+### Solo scraping (sin IA)
 
-| Parámetro | Descripción | Ejemplo |
-|-----------|-------------|---------|
-| `--stores` | Tiendas a scrapear | `exito`, `alkosto`, `falabella` |
-| `--category` | Categoría de productos | `celulares`, `laptops`, `televisores` |
-| `--pages` | Número de páginas | `1`, `2`, `3` |
-| `--provider` | Proveedor de IA | `ollama`, `lm_studio` |
-| `--model` | Modelo de IA | `llama3.2`, `mistral` |
-| `--format` | Formato de salida | `json`, `csv` |
-| `--skip-ai` | Omitir análisis de IA | (sin valor) |
+Si no tienes Ollama o no quieres usar IA:
 
-### Ejemplos
-
-Scrapear múltiples tiendas:
-```bash
-python -m src.main --stores exito alkosto --category laptops --pages 2 --provider ollama --model llama3.2
-```
-
-Solo scraping sin IA:
 ```bash
 python -m src.main --stores exito --category celulares --pages 1 --skip-ai
 ```
 
-Exportar a CSV:
+### Múltiples tiendas
+
 ```bash
-python -m src.main --stores falabella --category televisores --format csv --skip-ai
+python -m src.main --stores exito alkosto --category laptops --pages 2 --skip-ai
 ```
 
-Usar LM Studio en lugar de Ollama:
+### Exportar a CSV
+
 ```bash
-python -m src.main --stores exito --category celulares --provider lm_studio --model local-model
+python -m src.main --stores exito --category televisores --format csv --skip-ai
 ```
+
+---
+
+## Parámetros disponibles
+
+| Parámetro | Qué hace | Valores |
+|-----------|----------|---------|
+| `--stores` | Tiendas a scrapear | `exito`, `alkosto`, `falabella` |
+| `--category` | Categoría de productos | `celulares`, `laptops`, `televisores`, etc. |
+| `--pages` | Páginas a extraer por tienda | `1`, `2`, `3`... |
+| `--provider` | Proveedor de IA | `ollama`, `lm_studio` |
+| `--model` | Modelo de IA | `llama3.2`, `mistral`, etc. |
+| `--format` | Formato de salida | `json`, `csv` |
+| `--skip-ai` | Omitir análisis de IA | (sin valor) |
 
 ---
 
@@ -153,35 +129,53 @@ python -m src.main --stores exito --category celulares --provider lm_studio --mo
 
 Después de ejecutar, encontrarás en la carpeta `output/`:
 
-- `results.json` - Lista de productos extraídos
-- `ai_summary.md` - Análisis generado por la IA
+- **results.json** - Lista de productos extraídos con nombre, precio, tienda, URL, etc.
+- **ai_summary.md** - Análisis generado por la IA (si no usaste `--skip-ai`)
 
 ---
 
-## Configuración alternativa
+## Estructura del proyecto
 
-Puedes usar un archivo `config.json` en lugar de parámetros CLI:
+Usé Clean Architecture para organizar el código:
 
-```json
-{
-    "stores": ["exito", "alkosto"],
-    "category": "celulares",
-    "pages": 2,
-    "format": "json",
-    "provider": "ollama",
-    "model": "llama3.2",
-    "skip_ai": false
-}
 ```
-
-Ejecutar con config:
-```bash
-python -m src.main --config config.json
+src/
+├── Domain/                 # El núcleo del negocio
+│   ├── Entities/          # Product y AIResponse
+│   ├── Interfaces/        # Contratos que deben cumplir las implementaciones
+│   └── ValueObjects/      # Configuraciones y tipos
+│
+├── Application/           # Casos de uso y lógica de aplicación
+│   ├── UseCases/         # ScrapingUseCase, AIAnalysisUseCase
+│   ├── DTOs/             # Objetos para transferir datos
+│   └── Services/         # Coordinación de casos de uso
+│
+├── Infrastructure/        # Implementaciones concretas
+│   ├── Repositories/     # Los scrapers (Éxito, Alkosto, Falabella)
+│   └── ExternalServices/ # Conexión con Ollama y LM Studio
+│
+└── Presentation/         # Interfaz de usuario
+    └── Controllers/      # El CLI que procesa los argumentos
 ```
 
 ---
 
-## Ejecutar tests
+## Patrones de diseño
+
+Implementé 3 patrones:
+
+### Strategy
+Para poder cambiar entre Ollama y LM Studio sin tocar el código. Están en `Infrastructure/ExternalServices/`.
+
+### Factory
+Para crear el scraper correcto según la tienda. Está en `Infrastructure/Repositories/scraper_factory.py`.
+
+### Template Method
+Define los pasos del scraping (construir URL → obtener HTML → parsear productos). Cada tienda implementa su propia forma de parsear. Está en `Infrastructure/Repositories/base_scraper.py`.
+
+---
+
+## Ejecutar los tests
 
 ```bash
 pytest tests/ -v
@@ -189,120 +183,26 @@ pytest tests/ -v
 
 ---
 
-## Requisitos
+## Problemas comunes
 
-- Python 3.10+
-- Google Chrome instalado
-- Ollama o LM Studio (para análisis con IA)
+**El scraper no extrae productos:**
+Las tiendas cambian su HTML frecuentemente. Si no funciona, puede que haya que actualizar los selectores en los archivos de cada scraper.
+
+**Ollama da timeout:**
+El análisis puede tardar 2-5 minutos dependiendo del modelo. Si da timeout, prueba con un modelo más pequeño:
+```bash
+ollama pull qwen2.5:0.5b
+python -m src.main --stores exito --category celulares --provider ollama --model qwen2.5:0.5b
+```
+
+**Error de Chrome/Selenium:**
+Asegúrate de tener Google Chrome instalado. El driver se descarga automáticamente.
 
 ---
 
-## Notas
+## Tecnologías usadas
 
-- El scraping puede tardar unos segundos por página debido a que las tiendas usan JavaScript
-- El análisis con IA puede demorar 1-3 minutos dependiendo del modelo y cantidad de productos
-- Si Ollama da timeout, intenta con un modelo más pequeño como `qwen2.5:0.5b`
-
-## 📤 Archivos de Salida
-
-### results.json / results.csv
-Contiene los productos extraídos:
-```json
-{
-    "total_products": 50,
-    "products": [
-        {
-            "name": "iPhone 15 Pro Max 256GB",
-            "price": 5499000,
-            "store": "Éxito",
-            "category": "celulares",
-            "rating": 4.8,
-            "url": "https://...",
-            "extracted_at": "2026-03-08T10:30:00"
-        }
-    ]
-}
-```
-
-### ai_summary.md
-Análisis generado por la IA:
-```markdown
-# Análisis de IA - Resultados del Scraping
-
-## Análisis 1: Resume los resultados obtenidos...
-
-**Proveedor:** Ollama
-**Modelo:** llama2
-
-### Respuesta
-El análisis de los 50 productos extraídos muestra...
-- Precio promedio: $2,500,000
-- Rango de precios: $500,000 - $6,000,000
-...
-```
-
-## 🧪 Tests
-
-```bash
-# Ejecutar todos los tests
-pytest
-
-# Tests con cobertura
-pytest --cov=src
-
-# Solo tests unitarios
-pytest tests/Unit/
-
-# Tests específicos
-pytest tests/Unit/test_scraper_factory.py -v
-```
-
-## 🔧 Decisiones Técnicas
-
-1. **Clean Architecture**: Separación clara de responsabilidades en capas independientes.
-
-2. **Strategy Pattern**: Elegido para proveedores de IA porque permite:
-   - Cambiar entre Ollama y LM Studio sin modificar código
-   - Agregar nuevos proveedores fácilmente
-   - Testing con mocks
-
-3. **Factory Pattern**: Elegido para scrapers porque:
-   - Encapsula la lógica de creación
-   - Permite agregar nuevas tiendas sin modificar clientes
-   - Centraliza la configuración de scrapers
-
-4. **Template Method Pattern**: Elegido para el flujo de scraping porque:
-   - Define un algoritmo común (fetch → parse → save)
-   - Permite personalizar pasos específicos por tienda
-   - Reutiliza código común (manejo de errores, delays)
-
-5. **Requests + BeautifulSoup**: Elegido sobre Selenium/Playwright porque:
-   - Más ligero y rápido
-   - Suficiente para sitios con contenido estático
-   - Menor complejidad de setup
-
-## 📊 Presentación (7 minutos)
-
-1. **Demostración del Scraper** (2 min)
-   - Ejecutar con múltiples tiendas
-   - Mostrar logs de progreso
-
-2. **Archivos Generados** (1 min)
-   - Abrir `results.json`
-   - Mostrar estructura de datos
-
-3. **Análisis de IA** (2 min)
-   - Mostrar `ai_summary.md`
-   - Explicar consultas realizadas
-
-4. **Decisiones Técnicas** (2 min)
-   - Patrones de diseño utilizados
-   - Arquitectura limpia
-   - Manejo de errores
-
-## 📝 Notas Importantes
-
-- El scraping a tiendas reales puede fallar si cambian su estructura HTML
-- Ollama o LM Studio deben estar corriendo antes de ejecutar el análisis
-- Se respetan delays entre requests para evitar bloqueos
-- Los errores no detienen la ejecución (se registran y continúa)
+- Python 3.10+
+- Selenium + BeautifulSoup (scraping)
+- Ollama / LM Studio (IA local)
+- Clean Architecture
