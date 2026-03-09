@@ -7,14 +7,15 @@
     "format": "json",
     
     "provider": "ollama",
-    "model": "llama2",
+    "model": "llama3.2",
     
     "skip_ai": false,
     
     "output_dir": "output",
     
     "custom_queries": [
-        "Resume los resultados obtenidos del scraping. Incluye precio promedio y productos destacados.",
-        "Identifica posibles anomalías en los datos como precios muy altos o muy bajos."
+        "Genera un resumen ejecutivo de los productos encontrados. Incluye estadísticas clave como precio promedio, rango de precios y número de productos por tienda.",
+        "Identifica los 5 productos con mejor relación calidad-precio basándote en el nombre y precio. Justifica brevemente cada selección.",
+        "Analiza tendencias de precios entre las tiendas. ¿Cuál tienda ofrece mejores precios en general?"
     ]
 }
