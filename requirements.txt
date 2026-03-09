@@ -1,0 +1,18 @@
+# Web Scraper + IA - Dependencias
+# Instalar con: pip install -r requirements.txt
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Utilidades
+python-dateutil>=2.8.0
+
+# Desarrollo (opcional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0

@@ -1,0 +1,20 @@
+{
+    "_comment": "Archivo de configuración para el Web Scraper + IA",
+    
+    "stores": ["exito", "alkosto", "falabella"],
+    "category": "celulares",
+    "pages": 2,
+    "format": "json",
+    
+    "provider": "ollama",
+    "model": "llama2",
+    
+    "skip_ai": false,
+    
+    "output_dir": "output",
+    
+    "custom_queries": [
+        "Resume los resultados obtenidos del scraping. Incluye precio promedio y productos destacados.",
+        "Identifica posibles anomalías en los datos como precios muy altos o muy bajos."
+    ]
+}
