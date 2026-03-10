@@ -9,7 +9,7 @@ from ...Domain.Interfaces import IProductScraper, IScraperFactory
 from ...Domain.ValueObjects import StoreType
 from .base_scraper import BaseScraper
 from .exito_scraper import ExitoScraper
-from .alkosto_scraper import AlkostoScraper
+from .jumbo_scraper import JumboScraper
 from .falabella_scraper import FalabellaScraper
 
 logger = logging.getLogger(__name__)
@@ -24,7 +24,7 @@ class ScraperFactory(IScraperFactory):
     # Registro de scrapers disponibles
     _scrapers: Dict[StoreType, Type[BaseScraper]] = {
         StoreType.EXITO: ExitoScraper,
-        StoreType.ALKOSTO: AlkostoScraper,
+        StoreType.JUMBO: JumboScraper,
         StoreType.FALABELLA: FalabellaScraper
     }
     
@@ -33,7 +33,7 @@ class ScraperFactory(IScraperFactory):
         Crea una instancia del scraper correspondiente al tipo de tienda.
         
         Args:
-            store_type: Nombre de la tienda (exito, alkosto, falabella)
+            store_type: Nombre de la tienda (exito, jumbo, falabella)
             
         Returns:
             Instancia del scraper específico

@@ -2,7 +2,7 @@
 
 **Autor:** Joan Steven Gonzalez Maldonado
 
-Hice este proyecto para extraer productos de tiendas como Éxito, Alkosto y Falabella, y luego analizar los datos con inteligencia artificial usando Ollama o LM Studio.
+Hice este proyecto para extraer productos de tiendas como Éxito, Jumbo y Falabella, y luego analizar los datos con inteligencia artificial usando Ollama o LM Studio.
 
 ---
 
@@ -100,7 +100,7 @@ python -m src.main --stores exito --category celulares --pages 1 --skip-ai
 ### Múltiples tiendas
 
 ```bash
-python -m src.main --stores exito alkosto --category laptops --pages 2 --skip-ai
+python -m src.main --stores exito jumbo --category laptops --pages 2 --skip-ai
 ```
 
 ### Exportar a CSV
@@ -115,7 +115,7 @@ python -m src.main --stores exito --category televisores --format csv --skip-ai
 
 | Parámetro | Qué hace | Valores |
 |-----------|----------|---------|
-| `--stores` | Tiendas a scrapear | `exito`, `alkosto`, `falabella` |
+| `--stores` | Tiendas a scrapear | `exito`, `jumbo`, `falabella` |
 | `--category` | Categoría de productos | `celulares`, `laptops`, `televisores`, etc. |
 | `--pages` | Páginas a extraer por tienda | `1`, `2`, `3`... |
 | `--provider` | Proveedor de IA | `ollama`, `lm_studio` |
@@ -151,7 +151,7 @@ src/
 │   └── Services/         # Coordinación de casos de uso
 │
 ├── Infrastructure/        # Implementaciones concretas
-│   ├── Repositories/     # Los scrapers (Éxito, Alkosto, Falabella)
+│   ├── Repositories/     # Los scrapers (Éxito, Jumbo, Falabella)
 │   └── ExternalServices/ # Conexión con Ollama y LM Studio
 │
 └── Presentation/         # Interfaz de usuario

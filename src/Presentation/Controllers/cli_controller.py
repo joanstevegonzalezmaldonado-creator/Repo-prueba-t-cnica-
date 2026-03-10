@@ -33,7 +33,7 @@ def create_parser() -> argparse.ArgumentParser:
 Ejemplos de uso:
   
   # Scraping completo con análisis IA usando Ollama
-  python -m src.main --stores exito alkosto --category celulares --pages 2 --provider ollama --model llama2
+  python -m src.main --stores exito jumbo --category celulares --pages 2 --provider ollama --model llama2
   
   # Scraping con LM Studio
   python -m src.main --stores falabella --category laptops --provider lm_studio --model local-model
@@ -42,7 +42,7 @@ Ejemplos de uso:
   python -m src.main --stores exito --category televisores --skip-ai
   
   # Formato CSV
-  python -m src.main --stores alkosto --category audifonos --format csv --provider ollama --model mistral
+  python -m src.main --stores jumbo --category audifonos --format csv --provider ollama --model mistral
   
   # Con archivo de configuración
   python -m src.main --config config.json
@@ -53,7 +53,7 @@ Ejemplos de uso:
     parser.add_argument(
         '--stores', '-s',
         nargs='+',
-        choices=['exito', 'alkosto', 'falabella'],
+        choices=['exito', 'jumbo', 'falabella'],
         default=['exito'],
         help='Tiendas a scrapear (default: exito)'
     )

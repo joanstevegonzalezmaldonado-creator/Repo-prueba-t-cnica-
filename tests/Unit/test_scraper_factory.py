@@ -6,7 +6,7 @@ import pytest
 from src.Infrastructure.Repositories import (
     ScraperFactory,
     ExitoScraper,
-    AlkostoScraper,
+    JumboScraper,
     FalabellaScraper
 )
 from src.Domain.Interfaces import IProductScraper
@@ -25,15 +25,15 @@ class TestScraperFactory:
         
         assert isinstance(scraper, IProductScraper)
         assert isinstance(scraper, ExitoScraper)
-        assert scraper.store_name == "Éxito"
+        assert scraper.store_name == "Exito"
     
-    def test_create_alkosto_scraper(self):
-        """Test creación de scraper de Alkosto."""
-        scraper = self.factory.create_scraper("alkosto")
+    def test_create_jumbo_scraper(self):
+        """Test creación de scraper de Jumbo."""
+        scraper = self.factory.create_scraper("jumbo")
         
         assert isinstance(scraper, IProductScraper)
-        assert isinstance(scraper, AlkostoScraper)
-        assert scraper.store_name == "Alkosto"
+        assert isinstance(scraper, JumboScraper)
+        assert scraper.store_name == "Jumbo"
     
     def test_create_falabella_scraper(self):
         """Test creación de scraper de Falabella."""
@@ -55,7 +55,7 @@ class TestScraperFactory:
         stores = self.factory.get_available_stores()
         
         assert "exito" in stores
-        assert "alkosto" in stores
+        assert "jumbo" in stores
         assert "falabella" in stores
         assert len(stores) == 3
 
@@ -81,12 +81,12 @@ class TestScraperInterface:
         assert "exito.com" in url
         assert "celulares" in url
     
-    def test_alkosto_category_url(self):
+    def test_jumbo_category_url(self):
         """Test generación de URL de categoría."""
-        scraper = AlkostoScraper()
+        scraper = JumboScraper()
         url = scraper.get_category_url("laptops", 2)
         
-        assert "alkosto.com" in url
+        assert "tiendasjumbo.co" in url
         assert "page=2" in url
     
     def test_falabella_category_url(self):

@@ -30,7 +30,7 @@ class TestProduct:
         product = Product(
             name="Samsung Galaxy",
             price=3000000,
-            store="Alkosto",
+            store="Jumbo",
             category="celulares",
             rating=4.5
         )

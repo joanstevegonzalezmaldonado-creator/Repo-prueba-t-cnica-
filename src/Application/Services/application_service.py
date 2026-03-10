@@ -55,7 +55,7 @@ class ApplicationService:
         Ejecuta el pipeline completo de scraping + análisis IA.
         
         Args:
-            stores: Lista de tiendas (exito, alkosto, falabella)
+            stores: Lista de tiendas (exito, jumbo, falabella)
             category: Categoría a buscar
             num_pages: Número de páginas por tienda
             llm_provider: Proveedor de LLM (ollama, lm_studio)

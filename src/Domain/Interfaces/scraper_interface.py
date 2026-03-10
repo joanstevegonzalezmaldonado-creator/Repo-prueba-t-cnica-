@@ -78,7 +78,7 @@ class IScraperFactory(ABC):
         Crea un scraper para el tipo de tienda especificado.
         
         Args:
-            store_type: Tipo de tienda (exito, alkosto, falabella)
+            store_type: Tipo de tienda (exito, jumbo, falabella)
             
         Returns:
             Instancia del scraper correspondiente

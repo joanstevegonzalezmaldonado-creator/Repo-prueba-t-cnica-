@@ -9,7 +9,7 @@ from enum import Enum
 class StoreType(Enum):
     """Tipos de tiendas soportadas."""
     EXITO = "exito"
-    ALKOSTO = "alkosto"
+    JUMBO = "jumbo"
     FALABELLA = "falabella"
     
     @classmethod

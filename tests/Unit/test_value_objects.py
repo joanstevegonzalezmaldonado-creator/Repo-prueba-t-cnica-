@@ -17,7 +17,7 @@ class TestStoreType:
     def test_store_type_values(self):
         """Test valores del enum."""
         assert StoreType.EXITO.value == "exito"
-        assert StoreType.ALKOSTO.value == "alkosto"
+        assert StoreType.JUMBO.value == "jumbo"
         assert StoreType.FALABELLA.value == "falabella"
     
     def test_from_string_valid(self):
@@ -25,8 +25,8 @@ class TestStoreType:
         store = StoreType.from_string("exito")
         assert store == StoreType.EXITO
         
-        store = StoreType.from_string("ALKOSTO")
-        assert store == StoreType.ALKOSTO
+        store = StoreType.from_string("JUMBO")
+        assert store == StoreType.JUMBO
     
     def test_from_string_invalid(self):
         """Test creación desde string inválido."""

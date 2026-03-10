@@ -10,7 +10,7 @@ from .ExternalServices import (
 from .Repositories import (
     BaseScraper,
     ExitoScraper,
-    AlkostoScraper,
+    JumboScraper,
     FalabellaScraper,
     ScraperFactory,
     get_scraper_factory,
@@ -25,7 +25,7 @@ __all__ = [
     "create_llm_context",
     "BaseScraper",
     "ExitoScraper",
-    "AlkostoScraper", 
+    "JumboScraper", 
     "FalabellaScraper",
     "ScraperFactory",
     "get_scraper_factory",

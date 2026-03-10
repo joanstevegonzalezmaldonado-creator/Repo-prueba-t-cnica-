@@ -1,165 +1,275 @@
 {
-  "total_products": 16,
+  "total_products": 27,
   "products": [
     {
-      "name": "Celular SAMSUNG Galaxy A36  256 GB 8 GB RAM Gris + Cargador",
-      "price": 999900.0,
-      "store": "Exito",
+      "name": "SAMSUNG",
+      "price": 239.9,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-gris-buds-core-3240980/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.058174"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/618548-300-300?v=638489640370370000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.679861"
     },
     {
-      "name": "Celular XIAOMI REDMI Note 15 Pro 5G 512 GB 8 GB RAM",
-      "price": 1499900.0,
-      "store": "Exito",
+      "name": "Celular iPhone 13 Blanco 128GB Reacondicionado",
+      "price": 1324800.0,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-xiaomi-redmi-note-15-pro-5g-512-gb-8-gb-ram-3240502/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.059827"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625888-300-300?v=638508825881000000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.683943"
     },
     {
-      "name": "Iphone 13 128Gb Blanco Reacondicionado",
-      "price": 5999900.0,
-      "store": "Exito",
+      "name": "MOTOROLA",
+      "price": 1019900.0,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/iphone-13-128gb-blanco-reacondicionado-104627965-mp/p",
-      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/29483062-300-auto/iphone-13-128gb-blanco-reacondicionado.jpg?v=638895114834500000",
-      "extracted_at": "2026-03-09T13:20:33.061266"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/868970-300-300?v=638968461201300000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.687580"
     },
     {
-      "name": "Celular XIAOMI REDMI Note 15 Pro 5G 512 GB 8 GB RAM",
-      "price": 1499900.0,
-      "store": "Exito",
+      "name": "Celular iPhone 13 Medianoche 128GB Reacondicionado",
+      "price": 1324800.0,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-xiaomi-redmi-note-15-pro-5g-512-gb-8-gb-ram-3240500/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.062808"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625855-300-300?v=638508825795600000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.691266"
     },
     {
-      "name": "Celular XIAOMI Redmi 15C 256 GB 8 GB RAM",
-      "price": 573900.0,
-      "store": "Exito",
+      "name": "MOTOROLA",
+      "price": 1019900.0,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-xiaomi-redmi-15c-256-gb-8-gb-ram-3224769/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.064419"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/868984-300-300?v=638968461541630000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.695862"
     },
     {
-      "name": "Iphone 17 Pro Max 256Gb Plata Esim",
-      "price": 8999900.0,
-      "store": "Exito",
+      "name": "XIAOMI",
+      "price": 599.9,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/iphone-17-pro-max-256gb-plata-esim-104768840-mp/p",
-      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/31306665-300-auto/iphone-17-pro-max-256gb-plata-esim.jpg?v=638961847094500000",
-      "extracted_at": "2026-03-09T13:20:33.066481"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/830006-300-300?v=638913855825030000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.699960"
     },
     {
-      "name": "Celular SAMSUNG Galaxy A36  5G 256 GB 8 GB RAM Gris",
-      "price": 1784900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": 5.0,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-gris-3206236/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.069454"
-    },
-    {
-      "name": "Celular SAMSUNG Galaxy A26  5G 256 GB 8 GB RAM Negro",
-      "price": 832400.0,
-      "store": "Exito",
+      "name": "Celular iPhone 14 Pro max Reacondicionado 128Gb Morado",
+      "price": 3399900.0,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a26-256-gb-8-gb-ram-negro-3206234/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.071605"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/758168-300-300?v=638859363276570000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.703756"
     },
     {
-      "name": "Celular SAMSUNG Galaxy A36  5G 256 GB 8 GB RAM Negro",
-      "price": 1784900.0,
-      "store": "Exito",
+      "name": "Celular iPhone 14  Reacondicionado  128gb  Media Noche",
+      "price": 1519800.0,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-negro-3206238/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.072837"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/847962-300-300?v=638937352474730000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.707378"
     },
     {
-      "name": "Celular MOTOROLA G15 256 GB 4 GB RAM Gris",
-      "price": 529937.0,
-      "store": "Exito",
+      "name": "INFINIX",
+      "price": 899.9,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-motorola-g15-256gb-256-gb-4-gb-ram-gris-3198397/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.074394"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/858695-300-300?v=638948323576570000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.710731"
     },
     {
-      "name": "Celular Samsung Galaxy A06 128Gb 4Gb Ram 4G Verde",
-      "price": 878010.0,
-      "store": "Exito",
+      "name": "SAMSUNG",
+      "price": 999.9,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a06-128gb-4gb-ram-4g-verde-103725170-mp/p",
-      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/26516433-300-auto/celular-samsung-galaxy-a06-128gb-4gb-ram-4g-verde.jpg?v=638731561707500000",
-      "extracted_at": "2026-03-09T13:20:33.075515"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/711797-300-300?v=638702143490170000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.713355"
     },
     {
-      "name": "Celular SAMSUNG Galaxy A36  256 GB 8 GB RAM Verde + Cargador",
-      "price": 999900.0,
-      "store": "Exito",
+      "name": "Celular iPhone 14 PRO Reacondicionado  128GB Plata",
+      "price": 2499900.0,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-verde-buds-core-3240982/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.077644"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/656421-300-300?v=638593519258470000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.716316"
     },
     {
-      "name": "Celular HONOR X8C 512 GB 8 GB RAM Purpura",
-      "price": 835000.0,
-      "store": "Exito",
+      "name": "REALME",
+      "price": 1094900.0,
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-honor-x8c-512-gb-8-gb-ram-purpura-3211833/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.079439"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/866217-300-300?v=638961595620600000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.719734"
     },
     {
-      "name": "Celular MOTOROLA G55 5G 256 GB 8 GB RAM Rosado",
+      "name": "SAMSUNG",
+      "price": 3799900.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/873705-300-300?v=638989939371700000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.722454"
+    },
+    {
+      "name": "MOTOROLA",
+      "price": 2099900.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/802949-300-300?v=638857848491170000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.725872"
+    },
+    {
+      "name": "INFINIX",
+      "price": 899.9,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/858685-300-300?v=638948323404800000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.729274"
+    },
+    {
+      "name": "Celular iPhone 14  Reacondicionado  128gb Amarillo",
+      "price": 1519800.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/758295-300-300?v=638763588883400000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.733107"
+    },
+    {
+      "name": "MOTOROLA",
+      "price": 799.9,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/803024-300-300?v=638857851255170000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.738744"
+    },
+    {
+      "name": "Celular iPhone 14  Reacondicionado  128gb Purpura",
+      "price": 1519800.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/758242-300-300?v=638763588696300000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.743831"
+    },
+    {
+      "name": "Celular iPhone 13 Azul 128GB Reacondicionado",
+      "price": 1324800.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625916-300-300?v=638508825993100000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.747751"
+    },
+    {
+      "name": "Celular Reacondicionado iPhone 12 Pro 128GB Azul pacifico",
       "price": 1399900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": 5.0,
-      "url": "https://www.exito.com/celular-motorola-g55-256gb-256-gb-8-gb-ram-rosado-3198400/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.080638"
-    },
-    {
-      "name": "Iphone 13 128Gb Rosa Reacondicionado",
-      "price": 2999900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": 3.0,
-      "url": "https://www.exito.com/iphone-13-reacondicionado-128-gb-rosa-102434824-mp/p",
-      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/18487200-300-auto/iphone-13-reacondicionado-128-gb-rosa.jpg?v=638973409609430000",
-      "extracted_at": "2026-03-09T13:20:33.081801"
-    },
-    {
-      "name": "Celular MOTOROLA Edge 60 Fusion 5G 256 GB 8 GB RAM Café",
-      "price": 919900.0,
-      "store": "Exito",
+      "store": "Jumbo",
       "category": "celulares",
       "rating": null,
-      "url": "https://www.exito.com/celular-motorola-edge-60-fusion-5g-256-gb-8-gb-ram-cafe-3226180/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T13:20:33.083748"
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625941-300-300?v=638508826111130000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.751701"
+    },
+    {
+      "name": "Celular Reacondicionado iPhone 13 Pro Oro 128GB",
+      "price": 1999900.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/775089-300-300?v=638791982869430000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.755898"
+    },
+    {
+      "name": "MOTOROLA",
+      "price": 1019900.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/868956-300-300?v=638968460848330000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.759601"
+    },
+    {
+      "name": "SAMSUNG",
+      "price": 999.9,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/772623-300-300?v=638780722787500000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.763298"
+    },
+    {
+      "name": "Celular iPhone 14  Reacondicionado  128gb Blanco",
+      "price": 1519800.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/758237-300-300?v=638763588693630000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.768691"
+    },
+    {
+      "name": "Celular Reacondicionado iPhone 13 Blanco 256GB",
+      "price": 1599900.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/848187-300-300?v=638937355292130000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.772797"
+    },
+    {
+      "name": "SAMSUNG",
+      "price": 6999900.0,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/895495-300-300?v=639076480147800000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.776688"
+    },
+    {
+      "name": "Celular Reacondicionado iPhone 12 Negro 64",
+      "price": 868.9,
+      "store": "Jumbo",
+      "category": "celulares",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625784-300-300?v=638508825452870000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:32:49.780500"
     }
   ]
 }

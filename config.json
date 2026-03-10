@@ -1,7 +1,7 @@
 {
     "_comment": "Archivo de configuración para el Web Scraper + IA",
     
-    "stores": ["exito", "alkosto", "falabella"],
+    "stores": ["exito", "jumbo", "falabella"],
     "category": "celulares",
     "pages": 2,
     "format": "json",
