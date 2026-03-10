@@ -1,995 +1,1005 @@
 {
-  "total_products": 99,
+  "total_products": 100,
   "products": [
     {
-      "name": "Celular SAMSUNG Galaxy A36  256 GB 8 GB RAM Gris + Cargador",
-      "price": 999900.0,
+      "name": "Portatil Tactil HP  Intel Core i5 1334U RAM 16 GB 512 GB SSD 15fd0153la",
+      "price": 2358010.0,
       "store": "Exito",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-gris-buds-core-3240980/p",
+      "url": "https://www.exito.com/computador-portatil-hp-intel-core-i5-1334u-ram-16-gb-512-gb-ssd-15-fd0153la-3216524/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/31515548-300-auto/Computador-Portatil-HP-Intel-Core-i5-1334U-RAM-16-GB-512-GB-SSD-15-fd0153la-3717267_a.jpg?v=638978905705730000",
+      "extracted_at": "2026-03-09T19:54:30.368717"
+    },
+    {
+      "name": "Portatil Gaming ASUS TUF Intel Core 5 210H RAM 16 GB 512 GB SSD FX607VJRL165W",
+      "price": 4989000.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/portatil-gaming-asus-tuf-gaming-f16-intel-core-5-210h-ram-16-gb-512-gb-ssd-fx607vj-rl165w-3215788/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/32522838-300-auto/Portatil-Gaming-ASUS-TUF-Gaming-F16-Intel-Core-5-210H-RAM-16-GB-512-GB-SSD-FX607VJ-RL165W-3714118_a.jpg?v=639065330707430000",
+      "extracted_at": "2026-03-09T19:54:30.370141"
+    },
+    {
+      "name": "MORRAL 15.6 BACKPACK B210 LENOVO B210",
+      "price": 59900.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/morral-156-backpack-b210-946928/p",
       "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:46.983073"
+      "extracted_at": "2026-03-09T19:54:30.371264"
     },
     {
-      "name": "Celular XIAOMI REDMI Note 15 Pro 5G 512 GB 8 GB RAM",
-      "price": 1149900.0,
+      "name": "Mouse Vertical Inalámbrico Usb Ergonómico Batería Recargable",
+      "price": 45000.0,
       "store": "Exito",
-      "category": "celulares",
+      "category": "computadores",
+      "rating": 3.8,
+      "url": "https://www.exito.com/mouse-vertical-inalambrico-usb-ergonomico-bateria-recargable-100646403-mp/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/11678341-300-auto/mouse-vertical-inalambrico-usb-ergonomico-bateria-recargable.jpg?v=637789017188200000",
+      "extracted_at": "2026-03-09T19:54:30.373217"
+    },
+    {
+      "name": "Slim Keyboard Tab S10 Fe Negro  SAMSUNG ACCESORIOS TELEFONIA EFDX720BBEGES",
+      "price": 639900.0,
+      "store": "Exito",
+      "category": "computadores",
       "rating": null,
-      "url": "https://www.exito.com/celular-xiaomi-redmi-note-15-pro-5g-512-gb-8-gb-ram-3240502/p",
+      "url": "https://www.exito.com/slim-keyboard-tab-s10-fe-negro-samsung-accesorios-telefonia-ef-dx720bbeges-3210473/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/27471707-300-auto/Slim-Keyboard-Tab-S10-Fe-Negro-SAMSUNG-ACCESORIOS-TELEFONIA-EF-DX720BBEGES-3693072_a.jpg?v=639014315830900000",
+      "extracted_at": "2026-03-09T19:54:30.375571"
+    },
+    {
+      "name": "Portatil ASUS Vivobook 16 Intel Core i5 13420H RAM 16 GB 1 TB SSD X1605VAMB2357W",
+      "price": 2267947.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/portatil-asus-vivobook-16-intel-core-i5-13420h-ram-16-gb-1-tb-ssd-x1605va-mb2357w-3221197/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/32309173-300-auto/Portatil-ASUS-Vivobook-16-Intel-Core-i5-13420H-RAM-16-GB-1-TB-SSD-X1605VA-MB2357W-3734605_a.jpg?v=639047964764000000",
+      "extracted_at": "2026-03-09T19:54:30.376852"
+    },
+    {
+      "name": "Portatil ASUS Vivobook 14 AMD Ryzen 5 7430U RAM 16 GB 512 GB SSD M1405YALY294W",
+      "price": 1937950.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/portatil-asus-vivobook-14-amd-ryzen-5-7430u-ram-16-gb-512-gb-ssd-m1405ya-ly294w-3221205/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/32360305-300-auto/Portatil-ASUS-Vivobook-14-AMD-Ryzen-5-7430U-RAM-16-GB-512-GB-SSD-M1405YA-LY294W-3734613_a.jpg?v=639053118708230000",
+      "extracted_at": "2026-03-09T19:54:30.377946"
+    },
+    {
+      "name": "Portatil Gaming LENOVO LOQ Intel Core i5 12450HX RAM 8 GB 512 GB SSD LOQ",
+      "price": 2331470.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/portatil-gaming-lenovo-loq-intel-core-i5-12450hx-ram-8-gb-512-gb-ssd-loq-3216285/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/31725905-300-auto/Portatil-Gaming-LENOVO-LOQ-Intel-Core-i5-12450HX-RAM-8-GB-512-GB-SSD-LOQ-3716581_a.jpg?v=638984925081670000",
+      "extracted_at": "2026-03-09T19:54:30.379127"
+    },
+    {
+      "name": "Monitor Samsung Ls22d310 22 Fhd 75Hz Hdmi Plano Negro_",
+      "price": 599900.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/monitor-samsung-ls22d310-22-fhd-75hz-hdmi-plano-negro-104301717-mp/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/32716950-300-auto/monitor-samsung-ls22d310-22-fhd-75hz-hdmi-plano-negro.jpg?v=639086701307870000",
+      "extracted_at": "2026-03-09T19:54:30.380159"
+    },
+    {
+      "name": "Portatil LENOVO IdeaPad Slim 3 AMD Ryzen 7 7735HS RAM 24 GB 1 TB SSD IP S3",
+      "price": 2447320.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/portatil-lenovo-ideapad-slim-3-amd-ryzen-7-7735hs-ram-24-gb-1-tb-ssd-ip-s3-3237719/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/32638770-300-auto/Portatil-LENOVO-IdeaPad-Slim-3-AMD-Ryzen-7-7735HS-RAM-24-GB-1-TB-SSD-IP-S3-3790987_a.jpg?v=639076333947170000",
+      "extracted_at": "2026-03-09T19:54:30.381244"
+    },
+    {
+      "name": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd",
+      "price": 1815000.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/portatil-hp-14-dq3502la-celeron-n4500-ddr4-8gb-ssd-512gb-pantalla-14-hd-104754207-mp/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/31492057-300-auto/portatil-hp-14-dq3502la-celeron-n4500-8gb-ram-512gb-ssd-14-hd.jpg?v=638975414608270000",
+      "extracted_at": "2026-03-09T19:54:30.382271"
+    },
+    {
+      "name": "Portatil Gaming HP Victus Intel Core i5 13420H RAM 8 GB 512 GB SSD 15fa2009la",
+      "price": 2323944.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/computador-hp-victus-intel-core-i5-13420h-ram-8-gb-512-gb-ssd-15-fa2009la-3235652/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/32431190-300-auto/Computador-HP-Victus-Intel-Core-i5-13420H-RAM-8-GB-512-GB-SSD-15-fa2009la-3787494_a.jpg?v=639059006268200000",
+      "extracted_at": "2026-03-09T19:54:30.383375"
+    },
+    {
+      "name": "Portatil HP  Intel Core Ultra 5 125H RAM 24 GB 512 GB SSD 15fd1056la",
+      "price": 2447020.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/computador-portatil-hp-intel-core-ultra-5-125h-ram-24-gb-512-gb-ssd-15-fd1056la-3226494/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/31758743-300-auto/Computador-Portatil-HP-Intel-Core-Ultra-5-125H-RAM-24-GB-512-GB-SSD-15-fd1056la-3755525_a.jpg?v=638986487495870000",
+      "extracted_at": "2026-03-09T19:54:30.384468"
+    },
+    {
+      "name": "Cargador Original Apple Usb C 20W Carga Rapida Para Iphone, Ipad, Apple Watch",
+      "price": 99999.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": 4.3,
+      "url": "https://www.exito.com/cargador-original-apple-tipo-c-20w-carga-rapida-101457058-mp/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/31793107-300-auto/cargador-original-apple-usb-c-20w-carga-rapida-para-iphone-ipad-apple-watch.jpg?v=638987514583600000",
+      "extracted_at": "2026-03-09T19:54:30.385356"
+    },
+    {
+      "name": "Antivirus Plus 1 Dispositivo 1 año KASPERSKY KL1042DDAFS",
+      "price": 177000.0,
+      "store": "Exito",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.exito.com/antivirus-plus-1-dispositivo-1-ano-kaspersky-kl1042ddafs-3191420/p",
       "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:46.984553"
+      "extracted_at": "2026-03-09T19:54:30.388048"
     },
     {
-      "name": "Iphone 13 128Gb Blanco Reacondicionado",
-      "price": 3999900.0,
+      "name": "Macbook Air 13.6 Chip M4 2025 Ram 16Gb Ssd 256Gb Apple Skyblue",
+      "price": 5999000.0,
       "store": "Exito",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
-      "url": "https://www.exito.com/iphone-13-128gb-blanco-reacondicionado-104627965-mp/p",
-      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/29483062-300-auto/iphone-13-128gb-blanco-reacondicionado.jpg?v=638895114834500000",
-      "extracted_at": "2026-03-09T19:35:46.985867"
+      "url": "https://www.exito.com/mackbook-air-m4-16-ram-256gb-104236306-mp/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/29363743-300-auto/macbook-air-136-chip-m4-2025-ram-16gb-ssd-256gb-apple-skyblue.jpg?v=638942448580930000",
+      "extracted_at": "2026-03-09T19:54:30.390669"
     },
     {
-      "name": "Celular XIAOMI REDMI Note 15 Pro 5G 512 GB 8 GB RAM",
-      "price": 1149900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.exito.com/celular-xiaomi-redmi-note-15-pro-5g-512-gb-8-gb-ram-3240500/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:46.987317"
-    },
-    {
-      "name": "Celular XIAOMI Redmi 15C 256 GB 8 GB RAM",
-      "price": 573900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.exito.com/celular-xiaomi-redmi-15c-256-gb-8-gb-ram-3224769/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:46.988810"
-    },
-    {
-      "name": "Iphone 17 Pro Max 256Gb Plata Esim",
-      "price": 8999900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.exito.com/iphone-17-pro-max-256gb-plata-esim-104768840-mp/p",
-      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/31306665-300-auto/iphone-17-pro-max-256gb-plata-esim.jpg?v=638961847094500000",
-      "extracted_at": "2026-03-09T19:35:46.989979"
-    },
-    {
-      "name": "Celular SAMSUNG Galaxy A36  5G 256 GB 8 GB RAM Gris",
-      "price": 1784900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": 5.0,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-gris-3206236/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:46.991205"
-    },
-    {
-      "name": "Celular SAMSUNG Galaxy A26  5G 256 GB 8 GB RAM Negro",
-      "price": 832400.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a26-256-gb-8-gb-ram-negro-3206234/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:46.992806"
-    },
-    {
-      "name": "Celular SAMSUNG Galaxy A36  5G 256 GB 8 GB RAM Negro",
-      "price": 1784900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-negro-3206238/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:46.994293"
-    },
-    {
-      "name": "Celular MOTOROLA G15 256 GB 4 GB RAM Gris",
-      "price": 529937.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.exito.com/celular-motorola-g15-256gb-256-gb-4-gb-ram-gris-3198397/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:46.997224"
-    },
-    {
-      "name": "Celular Samsung Galaxy A06 128Gb 4Gb Ram 4G Verde",
-      "price": 878010.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a06-128gb-4gb-ram-4g-verde-103725170-mp/p",
-      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/26516433-300-auto/celular-samsung-galaxy-a06-128gb-4gb-ram-4g-verde.jpg?v=638731561707500000",
-      "extracted_at": "2026-03-09T19:35:46.999356"
-    },
-    {
-      "name": "Celular SAMSUNG Galaxy A36  256 GB 8 GB RAM Verde + Cargador",
-      "price": 999900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-verde-buds-core-3240982/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:47.002305"
-    },
-    {
-      "name": "Celular HONOR X8C 512 GB 8 GB RAM Purpura",
-      "price": 835000.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.exito.com/celular-honor-x8c-512-gb-8-gb-ram-purpura-3211833/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:47.004347"
-    },
-    {
-      "name": "Celular MOTOROLA G55 5G 256 GB 8 GB RAM Rosado",
-      "price": 1399900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": 5.0,
-      "url": "https://www.exito.com/celular-motorola-g55-256gb-256-gb-8-gb-ram-rosado-3198400/p",
-      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
-      "extracted_at": "2026-03-09T19:35:47.005702"
-    },
-    {
-      "name": "Iphone 13 128Gb Rosa Reacondicionado",
-      "price": 2999900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": 3.0,
-      "url": "https://www.exito.com/iphone-13-reacondicionado-128-gb-rosa-102434824-mp/p",
-      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/18487200-300-auto/iphone-13-reacondicionado-128-gb-rosa.jpg?v=638973409609430000",
-      "extracted_at": "2026-03-09T19:35:47.006822"
-    },
-    {
-      "name": "Iphone 15 128Gb 6Gb Negro",
-      "price": 3099900.0,
-      "store": "Exito",
-      "category": "celulares",
-      "rating": 5.0,
-      "url": "https://www.exito.com/iphone-15-128gb-nuevo-negro-103230409-mp/p",
-      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/32385229-300-auto/iphone-15-128gb-6gb-negro.jpg?v=639057485790170000",
-      "extracted_at": "2026-03-09T19:35:47.007989"
-    },
-    {
-      "name": "SAMSUNG",
-      "price": 239.9,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/618548-300-300?v=638489640370370000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.089571"
-    },
-    {
-      "name": "Celular iPhone 13 Blanco 128GB Reacondicionado",
-      "price": 1324800.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625888-300-300?v=638508825881000000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.098982"
-    },
-    {
-      "name": "MOTOROLA",
-      "price": 1019900.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/868970-300-300?v=638968461201300000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.126864"
-    },
-    {
-      "name": "Celular iPhone 13 Medianoche 128GB Reacondicionado",
-      "price": 1324800.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625855-300-300?v=638508825795600000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.136342"
-    },
-    {
-      "name": "MOTOROLA",
-      "price": 1019900.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/868984-300-300?v=638968461541630000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.142824"
-    },
-    {
-      "name": "XIAOMI",
-      "price": 599.9,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/830006-300-300?v=638913855825030000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.162104"
-    },
-    {
-      "name": "Celular iPhone 14 Pro max Reacondicionado 128Gb Morado",
-      "price": 3399900.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/758168-300-300?v=638859363276570000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.182306"
-    },
-    {
-      "name": "Celular iPhone 14  Reacondicionado  128gb  Media Noche",
-      "price": 1519800.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/847962-300-300?v=638937352474730000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.191402"
-    },
-    {
-      "name": "Celular Infinix Note 50S 5G 8Gb Ram/256Gb Rojo",
-      "price": 899.9,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/858695-300-300?v=638948323576570000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.203356"
-    },
-    {
-      "name": "SAMSUNG",
-      "price": 999.9,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/711797-300-300?v=638702143490170000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.214800"
-    },
-    {
-      "name": "Celular iPhone 14 PRO Reacondicionado  128GB Plata",
+      "name": "Computador portátil ASUS Vivobook 16 X1605VA-MB1639W - Intel Core i5H 13th  - 16GB RAM - 512GB  SSD - Negro - 16\" - Maletín y Mouse",
       "price": 2499900.0,
       "store": "Jumbo",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
       "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/656421-300-300?v=638593519258470000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.219483"
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/796989-300-300?v=638842214837030000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.901685"
     },
     {
-      "name": "Celular Realme 15T 5G 8GB Ram / 256GB Titanio + Diadema Obsequio",
-      "price": 1094900.0,
+      "name": "Computador Portátil Asus TUF Gaming F16\" FX607VJ-RL165W - Intel Core 5 - RAM 16GB - 512GB SSD - RTX 3050 - Gris",
+      "price": 3599900.0,
       "store": "Jumbo",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
       "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/866217-300-300?v=638961595620600000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.225655"
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/877890-300-300?v=639005386794700000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.906658"
     },
     {
-      "name": "SAMSUNG",
-      "price": 3799900.0,
+      "name": "Computador Portátil ASUS Vivobook Go 15 E1504FA-NJ748W - AMD Ryzen 5 - 8GB RAM - 512GB SSD - 15,6\"",
+      "price": 1899900.0,
       "store": "Jumbo",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
       "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/873705-300-300?v=638989939371700000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.231468"
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/827193-300-300?v=638905356770530000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.911310"
     },
     {
-      "name": "MOTOROLA",
-      "price": 2099900.0,
+      "name": "Computador portátil ASUS Vivobook 15 X1504VA-NJ015W - Intel Core i3 13th -  8GB RAM - 512GB SSD - Gris - 15,6\" - Mililtary Grade Edicion",
+      "price": 1749900.0,
       "store": "Jumbo",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
       "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/802949-300-300?v=638857848491170000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.238413"
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/842451-300-300?v=638929484604130000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.916123"
     },
     {
-      "name": "Celular Infinix Note 50S 5G 8Gb Ram/256Gb Titanio",
-      "price": 899.9,
+      "name": "LENOVO",
+      "price": 2399000.0,
       "store": "Jumbo",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
       "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/858685-300-300?v=638948323404800000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.242763"
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/872145-300-300?v=638978856463200000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.921190"
     },
     {
-      "name": "Celular iPhone 14  Reacondicionado  128gb Amarillo",
-      "price": 1519800.0,
+      "name": "LENOVO",
+      "price": 1799000.0,
       "store": "Jumbo",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
       "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/758295-300-300?v=638763588883400000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.247730"
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/821491-300-300?v=638890563308130000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.926006"
     },
     {
-      "name": "MOTOROLA",
-      "price": 799.9,
+      "name": "LENOVO",
+      "price": 2499000.0,
       "store": "Jumbo",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
       "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/803024-300-300?v=638857851255170000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.251823"
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/813301-300-300?v=638871485900000000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.930375"
     },
     {
-      "name": "Celular iPhone 14  Reacondicionado  128gb Purpura",
-      "price": 1519800.0,
+      "name": "Computador Portátil Gaming ACER Nitro Lite NL16-71G-56QE - Intel Core i5 13420H - 16GB RAM - 512GB SSD -",
+      "price": 3599000.0,
       "store": "Jumbo",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
       "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/758242-300-300?v=638763588696300000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.256295"
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/877279-300-300?v=639002774404670000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.934815"
     },
     {
-      "name": "Celular iPhone 13 Azul 128GB Reacondicionado",
-      "price": 1324800.0,
+      "name": "LENOVO",
+      "price": 1599000.0,
       "store": "Jumbo",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
       "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625916-300-300?v=638508825993100000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.260070"
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/839135-300-300?v=638924176303400000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.939090"
     },
     {
-      "name": "Celular Reacondicionado iPhone 12 Pro 128GB Azul pacifico",
-      "price": 1399900.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625941-300-300?v=638508826111130000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.266996"
-    },
-    {
-      "name": "Celular Reacondicionado iPhone 13 Pro Oro 128GB",
-      "price": 1999900.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/775089-300-300?v=638791982869430000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.274244"
-    },
-    {
-      "name": "MOTOROLA",
-      "price": 1019900.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/868956-300-300?v=638968460848330000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.283016"
-    },
-    {
-      "name": "SAMSUNG",
-      "price": 999.9,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/772623-300-300?v=638780722787500000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.286915"
-    },
-    {
-      "name": "Celular iPhone 14  Reacondicionado  128gb Blanco",
-      "price": 1519800.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/758237-300-300?v=638763588693630000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.290770"
-    },
-    {
-      "name": "Celular Reacondicionado iPhone 13 Blanco 256GB",
-      "price": 1599900.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/848187-300-300?v=638937355292130000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.294953"
-    },
-    {
-      "name": "SAMSUNG",
-      "price": 6999900.0,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/895495-300-300?v=639076480147800000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.301734"
-    },
-    {
-      "name": "Celular Reacondicionado iPhone 12 Negro 64",
-      "price": 868.9,
-      "store": "Jumbo",
-      "category": "celulares",
-      "rating": null,
-      "url": null,
-      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/625784-300-300?v=638508825452870000&width=300&height=300&aspect=true",
-      "extracted_at": "2026-03-09T19:36:06.319749"
-    },
-    {
-      "name": "Celular | Nubia V80 Pro | 5G | 256 GB | 8GB",
-      "price": 669.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73505039/celular-zte-nubia-v80-pro-5g-256-gb-8gb/73505040?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwMjk3NTE1Mw%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522FrIH8AoQBpr2d8lsekSTBLXGWi4KyxIQAZy_J2hEdQC7e_kfgxUiyhoQAZhmZVTjfyGTMFAw4eQuGyIMCgg3MzUwNTAzORABMMrjakCBiwVIAVDY_bCpzTNggYsFchAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A1%252C%2522signal%2522%253A%2522celulares%2522%252C%2522searchTerm%2522%253A%2522celulares%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73505040_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.508645"
-    },
-    {
-      "name": "Celular Edge 50 Fusion 12GB 512GB 5G Verde Azulado",
-      "price": 1124900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/150969534/celular-motorola-edge-50-fusion-12gb-512gb-5g-verde-azulado/150969535?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwMjk3NTE1Mw%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522DFq5xAoQBpr2d8lsekSTBLXGWi4KyxIQAZviUKaBdVGTRWAmx3Zp6xoQAZhmY8M6dKKDrEzOCr-VJiINCgkxNTA5Njk1MzQQATCC0WpAuoYCSAFQ2P2wqc0zYLqGAnIQAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A2%252C%2522signal%2522%253A%2522celulares%2522%252C%2522searchTerm%2522%253A%2522celulares%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
-      "image_url": "https://media.falabella.com.co/falabellaCO/150969535_01/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.510859"
-    },
-    {
-      "name": "Celular | REDMI Note 15 Pro |5G | 512GB |Incluye Power Bank 165W + Case| 8GB RAM",
-      "price": 1599900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73521049/celular-redmi-note-15-pro-5g-512gb-incluye-power-bank-165w-case-8gb-ram/73521050",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73521050_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.513353"
-    },
-    {
-      "name": "IPhone 17 Pro Max 256GB | 5G | Chip A19 Pro",
-      "price": 6799900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73417531/iPhone-17-Pro-Max-256GB-5G-Chip-Apple-A19-Pro/73417532",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73417532_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.515641"
-    },
-    {
-      "name": "Celular Redmi Note 15 Pro 256Gb 8Ram 50mp Titanio",
-      "price": 929.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/150580438/celular-xiaomi-redmi-note-15-pro-256gb-8ram-50mp-titanio/150580439",
-      "image_url": "https://media.falabella.com.co/falabellaCO/150580439_01/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.520498"
-    },
-    {
-      "name": "Celular | Galaxy A26 | 5G | 256 GB | 8GB RAM",
-      "price": 869.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73284030/Galaxy-A26-256GB-Negro/73284030",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73284030_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.522947"
-    },
-    {
-      "name": "Celular G15 4GB 256GB Gray",
-      "price": 429.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/142210294/Celular-MOTOROLA-G15-4GB-256GB-Gray/142210301?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwMjk3NTE1Mw%253D%253D%2522%252C%2522adIdentifier%2522%253A%25222deQQQoQBpr2d8lsekSTBLXGWi4KyxIQAZviUKaBdVGTRWAmx3Zp6xoQAZhmY8M6dKKDrEzOCr-VJiINCgkxNDIyMTAyOTQQATCC0WpAhntIAVDY_bCpzTNghntyEAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A7%252C%2522signal%2522%253A%2522celulares%2522%252C%2522searchTerm%2522%253A%2522celulares%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
-      "image_url": "https://media.falabella.com.co/falabellaCO/142210301_01/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.525083"
-    },
-    {
-      "name": "Celular | Nubia Neo | 5G | 256 GB | 8GB",
-      "price": 699.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73505031/celular-zte-nubia-neo-5g-256-gb-8gb/73505032?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwMjk3NTE1Mw%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522iXHRiAoQBpr2d8lsekSTBLXGWi4KyxIQAZy_J2hEdQC7e_kfgxUiyhoQAZhmZVTjfyGTMFAw4eQuGyIMCgg3MzUwNTAzMRABMMrjakDr9QNIAVDY_bCpzTNg6_UDchAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A8%252C%2522signal%2522%253A%2522celulares%2522%252C%2522searchTerm%2522%253A%2522celulares%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73505032_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.527076"
-    },
-    {
-      "name": "Celular | Galaxy S24 FE Negro | 5G | 128 GB | 8GB RAM",
-      "price": 3099900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 983.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/73142852/celular-galaxy-s24-fe-negro-5g-128-gb-8gb-ram/73142852",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73142852_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.528127"
-    },
-    {
-      "name": "Celular G15 4GB 256GB Gray",
-      "price": 429.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/142210294/Celular-MOTOROLA-G15-4GB-256GB-Gray/142210301",
-      "image_url": "https://media.falabella.com.co/falabellaCO/142210301_01/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.530412"
-    },
-    {
-      "name": "Celular | Galaxy S25 FE | 5G | 128 GB | 8GB RAM",
-      "price": 2099900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73522959/celular-galaxy-s25-fe-5g-128-gb-8gb-ram/73522960",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73522960_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.532726"
-    },
-    {
-      "name": "Celular edge 60 fusion 5G | 256GB | 8GB RAM",
-      "price": 959.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 8.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/73304155/Celular-motorola-edge-60-fusion-5G-256GB-8GB-RAM-/73304157",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73304157_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.537768"
-    },
-    {
-      "name": "Celular iPhone 13 128 GB 5G Negro Reacondicionado + Panel Solar",
-      "price": 1699900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/149061051/celular-iphone-13-5g-128gb-negro-reacondicionado/149061052",
-      "image_url": "https://media.falabella.com.co/falabellaCO/149061052_01/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.542039"
-    },
-    {
-      "name": "CELULAR GALAXY A56 5G VERDE 12GB 256GB",
-      "price": 1549900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/145216990/SAMSUNG-GALAXY-A56-5G-VERDE-12GB-256GB/145216991",
-      "image_url": "https://media.falabella.com.co/falabellaCO/145216991_01/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.545794"
-    },
-    {
-      "name": "Celular iPhone 16e 5G | 128GB | 8GB RAM | Compatible con eSIM",
-      "price": 2799900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 8.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/73262421/Celular-iPhone-16e-5G-128GB-8GB-RAM-Compatible-con-eSIM/73262422",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73262422_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.547485"
-    },
-    {
-      "name": "Celular M55 256GB 5G Negro",
-      "price": 679.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 13.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/143449630/Celular-SAMSUNG-M55-256GB-5G-Negro/143449631",
-      "image_url": "https://media.falabella.com.co/falabellaCO/143449631_01/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.548762"
-    },
-    {
-      "name": "Celular | REDMI Note 15 | 4G | 512GB | Incluye Buds 6 Play| 8GB RAM",
-      "price": 949.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73521055/celular-redmi-note-15-4g-512gb-incluye-buds-6-play-8gb-ram/73521056",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73521056_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.555542"
-    },
-    {
-      "name": "IPhone 17 Pro 256GB | 5G | Chip A19 Pro",
-      "price": 6299900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73417525/iPhone-17-Pro-256GB-5G-Chip-Apple-A19-Pro/73417527",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73417527_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.560073"
-    },
-    {
-      "name": "Celular | G15 | 512 GB | 4GB RAM",
-      "price": 559.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73378505/Celular-Motorola-G15-512-GB-4GB-RAM/73378506",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73378506_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.562862"
-    },
-    {
-      "name": "Celular Poco X7 5G 256Gb 8Ram 50Mp Negro",
-      "price": 899.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 2.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/139969875/celular-xiaomi-poco-x7-5g-256gb-8ram-50mp-negro/139969876",
-      "image_url": "https://media.falabella.com.co/falabellaCO/139969876_01/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.564039"
-    },
-    {
-      "name": "Celular | G86 | 5G | 256 GB | 8GB RAM",
-      "price": 869.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73378502/Celular-Motorola-G86-5G-256-GB-8GB-RAM/73378504",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73378504_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.570551"
-    },
-    {
-      "name": "Celular Galaxy A36 5G | 256 GB |8GB RAM",
-      "price": 1999900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 9.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/73268337/celular-samsung-galaxy-a36-5g-256-gb-8gb-ram/73268339",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73268339_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.572339"
-    },
-    {
-      "name": "Celular Galaxy A36 lleva gratis Buds Core |5G |256 GB | 8GB RAM",
-      "price": 1784900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 2.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/73395615/Celular-Samsung-Galaxy-A36-lleva-gratis-Buds-Core-5G-256-GB-8GB-RAM-/73395614",
-      "image_url": "https://media.falabella.com.co/falabellaCO/73395614_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.574304"
-    },
-    {
-      "name": "Celular iPhone 15 5G | 128GB | 6GB RAM | Compatible con eSIM",
-      "price": 3399900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 314.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/prod13430667/Celular-iPhone-15-5G-128GB-6GB-RAM-Compatible-con-eSIM/72752104",
-      "image_url": "https://media.falabella.com.co/falabellaCO/72752104_1/width=240,height=240,quality=70,format=webp,fit=pad",
-      "extracted_at": "2026-03-09T19:36:27.576321"
-    },
-    {
-      "name": "Celular | Galaxy A56 + Buds Core | 5G | 256 GB | 8GB",
-      "price": 1699900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73477904/celular-samsung-galaxy-a56-buds-core-5g-256-gb-8gb/73477906",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.580757"
-    },
-    {
-      "name": "IPhone 17 256GB | 5G | Chip A19",
-      "price": 4499900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73417515/iPhone-17-256GB-5G-Chip-Apple-A19/73417516",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.586931"
-    },
-    {
-      "name": "Celular Redmi 15C 256+4GB",
-      "price": 459.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/146269562/celular-xiaomi-redmi-15c-2564gb-azul/151544857",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.592154"
-    },
-    {
-      "name": "Celular Galaxy A17 256GB LTE 4G Gris",
-      "price": 709.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/151429761/celular-samsung-galaxy-a17-256gb-lte-4g-gris/151429762",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.596069"
-    },
-    {
-      "name": "Celular G85 8GB 256GB 5G Gris",
-      "price": 769.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/144587117/Celular-MOTOROLA-G85-8GB-256GB-5G-Gris/144587118?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwMjk3NTE1Mw%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522ct0-LQoQBpr2d8lsekSTBLXGWi4KyxIQAZviUKaBdVGTRWAmx3Zp6xoQAZhmY8M6dKKDrEzOCr-VJiINCgkxNDQ1ODcxMTcQATCC0WpAtbkBSAFQ2P2wqc0zYLW5AXIQAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A29%252C%2522signal%2522%253A%2522celulares%2522%252C%2522searchTerm%2522%253A%2522celulares%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.609634"
-    },
-    {
-      "name": "CELULAR GALAXY A56 5G VERDE 12GB 256GB",
-      "price": 1549900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/145216990/SAMSUNG-GALAXY-A56-5G-VERDE-12GB-256GB/145216991?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwMjk3NTE1Mw%253D%253D%2522%252C%2522adIdentifier%2522%253A%25229W8l4AoQBpr2d8lsekSTBLXGWi4KyxIQAZkWWWUTdhGCrnNhbwZTOBoQAZhmZM3PeJCuFqhaHGfHKSINCgkxNDUyMTY5OTAQATCe3mpAmHVIAVDY_bCpzTNgmHVyEAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A30%252C%2522signal%2522%253A%2522celulares%2522%252C%2522searchTerm%2522%253A%2522celulares%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.612958"
-    },
-    {
-      "name": "Celular Galaxy A07 6GB 128GB Black",
-      "price": 399.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/150081866/Celular-SAMSUNG-Galaxy-A07-6GB-128GB-Black/150081867",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.618941"
-    },
-    {
-      "name": "Celular Redmi A5 64GB 3GB Ram Negro + Smartwatch",
-      "price": 320.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/144531915/Celular-Xiaomi-Redmi-A5-64GB-3GB-Ram-Negro-+-Smartwatch/144531916",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.623031"
-    },
-    {
-      "name": "Celular Galaxy A07 64GB 4GB Negro",
-      "price": 289.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/151033576/celular-samsung-galaxy-a07-64gb-4gb-negro/151033577",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.625900"
-    },
-    {
-      "name": "Celular Redmi Note 15 Pro 4G 256gb 8RAM- Azul",
-      "price": 959.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/151056438/redmi-note-15-pro-256gb-8ram-azul/151056439",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.628014"
-    },
-    {
-      "name": "Celular iPhone 14 256 GB 5G Blanco Reacondicionado + Panel Solar + Garantía extendida",
-      "price": 2099900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/149062496/celular-iphone-14-5g-256gb-blanco-reacondicionado/149062497",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.631318"
-    },
-    {
-      "name": "CELULAR GALAXY A56 5G ROSADO 12GB 256GB",
-      "price": 1549900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 3.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/145216996/CELULAR-SAMSUNG-GALAXY-A56-5G-ROSADO-12GB-256GB/145216997",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.632698"
-    },
-    {
-      "name": "Celular G06 4G 128Gb 4Ram Verde",
-      "price": 385.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/149115427/Celular-Motorola-G06-4G-128Gb-4Ram-Verde/149115428",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.638586"
-    },
-    {
-      "name": "Celular Redmi 15C |4G |256 GB |4GB RAM",
-      "price": 549.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73388666/Celular-Redmi-15C-4G-256-GB-4GB-RAM/73388666",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.643084"
-    },
-    {
-      "name": "Celular G85 8GB 256GB 5G Gris",
-      "price": 769.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/144587117/Celular-MOTOROLA-G85-8GB-256GB-5G-Gris/144587118",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.647202"
-    },
-    {
-      "name": "Celular Galaxy S25 Ultra 256Gb 12Ram 200mp Gris",
+      "name": "Computador Portátil Gaming ASUS V16\" V3607VU-RP038W - Intel Core 5 - RAM 16GB - 512GB SSD - RTX4050",
       "price": 3999900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": 1.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/140457575/celular-samsung-galaxy-s25-ultra-256gb-12ram-200mp-gris/140457576",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.648682"
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/873575-300-300?v=638989919592900000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.943546"
     },
     {
-      "name": "Celular IPhone 12 Pro 256 GB 5G Grafito Reacondicionado + Garantía extendida",
+      "name": "Computador portátil ASUS Vivobook 16 M1607KA-MB068W - AMD Ryzen 7 - 16GB RAM - 512GB SSD - Copilot + IA - Gris - 16\"",
+      "price": 3199900.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/845493-300-300?v=638930359058470000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.948019"
+    },
+    {
+      "name": "Computador portátil ASUS Vivobook 15 X1502ZA-EJ2539W - Intel Core i5H - 8GB RAM - 512GB SSD - Azul - 15,6\" -  Lector de huellas",
+      "price": 1999900.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/842349-300-300?v=638926887613530000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.952460"
+    },
+    {
+      "name": "LENOVO",
+      "price": 1499000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/865907-300-300?v=638959718184200000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.956868"
+    },
+    {
+      "name": "Computador Portátil ASUS Vivobook Go 15 E1504FA-BQ2607W - AMD Ryzen 3 - RAM 8GB - 512GB SSD - Lector de huellas - 15,6\" - Gris",
+      "price": 1699900.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/869005-300-300?v=638968469721270000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.961335"
+    },
+    {
+      "name": "LENOVO",
+      "price": 2299000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/813294-300-300?v=638871485420330000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.965267"
+    },
+    {
+      "name": "Computador portátil Táctil ACER Aspire 3 A315-24PT-R3JR - AMD Ryzen 5 - 16GB RAM - 512GB SSD - Azul - 15,6\" - Funda + Mouse",
+      "price": 2299000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/775430-300-300?v=638793752474430000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.969742"
+    },
+    {
+      "name": "LENOVO",
+      "price": 3599000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/872169-300-300?v=638978857099670000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.974139"
+    },
+    {
+      "name": "Computador portátil ASUS Vivobook 15 X1502VA-NJ997W - Intel Core i5H 13th - 8GB RAM - 1TB SSD - Lector de huellas - Azul - 15,6\"",
+      "price": 2199900.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/827208-300-300?v=638905357702570000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.978758"
+    },
+    {
+      "name": "LENOVO",
+      "price": 1599000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/872161-300-300?v=638978856891600000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.983770"
+    },
+    {
+      "name": "LENOVO",
+      "price": 1999000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/818043-300-300?v=638878521291870000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.988186"
+    },
+    {
+      "name": "LENOVO",
+      "price": 3199000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/797803-300-300?v=638847578567000000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.991727"
+    },
+    {
+      "name": "Computador Portátil Gaming HP Victus 15-FB2002LA - AMD Ryzen 5 - RAM 8GB - 512GB SSD - RTX3050 -15,6\"FHD - Windows11 Home Single Language",
+      "price": 3699000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/822347-300-300?v=638893356922930000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:54.996469"
+    },
+    {
+      "name": "Computador Portátil ACER Aspire AL14-32P-390X-CO - Intel Core I3 - 8GB RAM - 512GB SSD - Azul - 14\"",
+      "price": 1649000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/803205-300-300?v=638858636945600000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:55.000194"
+    },
+    {
+      "name": "Computador Portátil Acer Aspire AL15-72P-74ND - Intel Core i7 - 16GB RAM - 512GB SSD - Plateado",
+      "price": 2617000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/878541-300-300?v=639014100574200000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:55.003893"
+    },
+    {
+      "name": "Computador Portátil ACER Aspire Go AG15-71P-56WU - Intel Core i5 13420H - 8GB RAM - 512GB SSD - Gris - 15,6\"",
+      "price": 2199000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/803214-300-300?v=638858637180430000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:55.007550"
+    },
+    {
+      "name": "Computador Portátil ACER AL15-41P-R558-CO - AMD Ryzen 7 - 16GB RAM - 512GB SSD - Gris - 15,6\"",
+      "price": 2399000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/803196-300-300?v=638858636709870000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:55.011194"
+    },
+    {
+      "name": "Computador portátil HP 15-FC0276 - AMD Ryzen 7 - RAM 16GB - 1TB - Blanco - 15\" FHD",
+      "price": 2499000.0,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/896528-300-300?v=639078092004800000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:55.015068"
+    },
+    {
+      "name": "UNIMARC",
+      "price": 81.9,
+      "store": "Jumbo",
+      "category": "computadores",
+      "rating": null,
+      "url": null,
+      "image_url": "https://jumbocolombiaio.vtexassets.com/arquivos/ids/646783-300-300?v=638566617752130000&width=300&height=300&aspect=true",
+      "extracted_at": "2026-03-09T19:54:55.018621"
+    },
+    {
+      "name": "Computador Portátil Gamer LOQ Core I5 12450HX 8/512 SSD RTX 4050 6GB 15,6 FHD WIN 11 HOME",
+      "price": 3249900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/151280498/portatil-lenovo-loq-intel-core-i5-12450hx-ram-8-512-ssd-15-6-fhd-win-11-home/151280499?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwNDEwMjk5MA%253D%253D%2522%252C%2522adIdentifier%2522%253A%25223NoAfQoQBpr2vk6mc8SjBMjo9y1t6xIQAZzGOlACdFGFLRRh0NLUIRoQAZuQs5KdelGxwEof0Lt2diINCgkxNTEyODA0OTgQATDzs39AwPwVSAFQ9-z1qc0zYMD8FXIQAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A1%252C%2522signal%2522%253A%2522computadores%2522%252C%2522searchTerm%2522%253A%2522computadores%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
+      "image_url": "https://media.falabella.com.co/falabellaCO/151280499_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.720273"
+    },
+    {
+      "name": "Computador Portatil Gamer Tuf F16 Intel Core I7 14650hx 32/1tb Rtx 5060 8gb 165hz Fhd Win 11 H",
+      "price": 6649900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/151970934/computador-portatil-gamer-asus-tuf-f16-intel-core-i7-14650hx-32-1tb-rtx-5060-8gb-165hz-fhd-win-11-h/151970935?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwNDEwMjk5MA%253D%253D%2522%252C%2522adIdentifier%2522%253A%25224eV_5AoQBpr2vk6mc8SjBMjo9y1t6xIQAZzGOlACdFGFLRRh0NLUIRoQAZuQs5KdelGxwEof0Lt2diINCgkxNTE5NzA5MzQQATDzs39AwPwVSAFQ9-z1qc0zYMD8FXIQAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A2%252C%2522signal%2522%253A%2522computadores%2522%252C%2522searchTerm%2522%253A%2522computadores%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
+      "image_url": "https://media.falabella.com.co/falabellaCO/151970935_001/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.723810"
+    },
+    {
+      "name": "Portátil Ideapad Slim 3 | AMD Ryzen 5| 8GB de RAM | 512GB SSD de Almacenamiento | Windows 11 | Pantalla 15.6 pulgadas | IP Slim 3 | Computador Portátil",
+      "price": 1549900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73344265/Portatil-Lenovo-Ideapad-Slim-3-AMD-Ryzen-5-8GB-de-RAM-512GB-SSD-de-Almacenamiento-Windows-11-Pantalla-15.6-pulgadas-IP-Slim-3-Computador-Portatil/73344265",
+      "image_url": "https://media.falabella.com.co/falabellaCO/73344265_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.727606"
+    },
+    {
+      "name": "Portátil Vivobook E1504FA Ryzen 3 7320U 8GB 512GB FHD",
+      "price": 1349900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/150319648/portatil-asus-vivobook-e1504fa-ryzen-3-7320u-8gb-512gb-fhd/150319649",
+      "image_url": "https://media.falabella.com.co/falabellaCO/150319649_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.730677"
+    },
+    {
+      "name": "Portátil Vivobook 16 | Intel Core i5 | 16 GB de RAM | 1TB SSD de almacenamiento | Windows 11 |16 Pulgadas |X1605VA-MB2013W | Computador portátil",
+      "price": 2299900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73396157/Portatil-ASUS-Vivobook-16-Intel-Core-i5-16-GB-de-RAM-1TB-SSD-de-almacenamiento-Windows-11-16-Pulgadas-X1605VA-MB2013W-Computador-portatil/73396157",
+      "image_url": "https://media.falabella.com.co/falabellaCO/73396157_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.734290"
+    },
+    {
+      "name": "Portátil | AMD Ryzen 7 | 16 GB RAM | 1 TB SSD Almacenamiento |Windows 11 | 15.6 pulgadas | 15-fc0276la | Computador portátil",
+      "price": 2499000.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73354813/Portatil-HP-AMD-Ryzen-7-16-GB-RAM-1-TB-SSD-Almacenamiento-Windows-11-15.6-pulgadas-15-fc0276la-Computador-portatil/73354813",
+      "image_url": "https://media.falabella.com.co/falabellaCO/73354813_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.736971"
+    },
+    {
+      "name": "Computador Portátil Gamer Victus AMD Ryzen7 7445HS 16/512 RTX 4050 15,6 FHD WIN 11 HOME",
+      "price": 3619900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/152061456/computador-portatil-gamer-hp-victus-amd-ryzen7-7445hs-16-512-rtx-4050-15-6-fhd-win-11-home/152061457?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwNDEwMjk5MA%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522UrwpLgoQBpr2vk6mc8SjBMjo9y1t6xIQAZzGOlACdFGFLRRh0NLUIRoQAZuQs5KdelGxwEof0Lt2diINCgkxNTIwNjE0NTYQATDzs39AmfgNSAFQ9-z1qc0zYJn4DXIQAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A7%252C%2522signal%2522%253A%2522computadores%2522%252C%2522searchTerm%2522%253A%2522computadores%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
+      "image_url": "https://media.falabella.com.co/falabellaCO/152061457_001/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.741184"
+    },
+    {
+      "name": "Portátil Vivobook 15 | AMD Ryzen 7 | LPDDR5 16GB| 512 GB SSD de almacenamiento | Windows 11 |15.6 Pulgadas |M1502YA-NJ180W | Computador portátil",
+      "price": 2299900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": 4.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/72977190/Portatil-ASUS-Vivobook-15-AMD-Ryzen-7-16GB-de-RAM-512GB-SSD-de-almacenamiento-Windows-11-15.6-Pulgadas-M1502YA-NJ180W-Computador-portatil/72977190?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwNDEwMjk5MA%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522CjaqcwoQBpr2vk6mc8SjBMjo9y1t6xIQAZzSldJiepOm7o6QZZ-cJxoQAZhmZVs0e2OaCpxEMnWluCIMCgg3Mjk3NzE5MBABMN7jakDM4QNIAVD37PWpzTNgzOEDchAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A8%252C%2522signal%2522%253A%2522computadores%2522%252C%2522searchTerm%2522%253A%2522computadores%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
+      "image_url": "https://media.falabella.com.co/falabellaCO/72977190_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.743058"
+    },
+    {
+      "name": "Portátil Gaming Victus | Intel Core I5 | 8GB | 512 GB SSD Almacenamiento | RTX 3050 | 15-Fa2009La | 15.6 Fhd | Windows 11 Home",
+      "price": 2499000.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73397256/Laptop-Gaming-Victus-15-Fa2009La,-Intel-Core-I5,-8-Gb,-512-Gb-Ssd,-15.6,-Fhd-Windows-11-Home/73397256",
+      "image_url": "https://media.falabella.com.co/falabellaCO/73397256_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.745672"
+    },
+    {
+      "name": "Portátil Ideapad Slim 3 | Intel Core i5 Serie H | 24GB de RAM | 512GB SSD de Almacenamiento | Windows 11 | Pantalla 15.3 pulgadas | IP Slim 3 | Computador Portátil",
+      "price": 2399900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": 1.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/73221262/Portatil-Lenovo-Ideapad-Slim-3-Intel-Core-i5-Serie-H-24GB-de-RAM-512GB-SSD-de-Almacenamiento-Windows-11-Pantalla-15.3-pulgadas-IP-Slim-3-Computador-Portatil/73221262",
+      "image_url": "https://media.falabella.com.co/falabellaCO/73221262_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.746956"
+    },
+    {
+      "name": "Portátil 15.6” Full HD AMD Ryzen 7 7730U 16GB RAM 512GB SSD Plata",
+      "price": 2099900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": 25.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/127619966/portatil-hp-amd-ryzen-7-7730u-ssd-512gb-ram-16gb-led-15-6-full-hd/127619968",
+      "image_url": "https://media.falabella.com.co/falabellaCO/127619968_001/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.748086"
+    },
+    {
+      "name": "PORTATIL 15 INTEL CORE I3 1215U SSD 512GB RAM 8GB HD 15.6” PLATEADA",
+      "price": 1349890.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": 5.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/126176671/portatil-hp-15-intel-core-i3-1215u-ssd-512gb-ram-8gb-hd-15-6-plateada/126176672",
+      "image_url": "https://media.falabella.com.co/falabellaCO/126176672_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.749076"
+    },
+    {
+      "name": "Portátil Ideapad Slim 3 | AMD Ryzen 7 | 24GB de RAM | 1TB SSD de Almacenamiento | Windows 11 | Pantalla 14 pulgadas | IP Slim 3 | Computador Portátil",
+      "price": 2599900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73475666/portatil-lenovo-ideapad-slim-3-amd-ryzen-7-24gb-de-ram-1tb-ssd-de-almacenamiento-windows-11-pantalla-14-pulgadas-ip-slim-3-computador-portatil/73475666",
+      "image_url": "https://media.falabella.com.co/falabellaCO/73475666_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.751143"
+    },
+    {
+      "name": "PORTATIL 14dq3502la Intel Celeron N4500 RAM 8GB SSD 512",
+      "price": 1044900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/150663138/14dq3502la-intel-celeron-n4500-ram-8gb-ssd-512/150663139",
+      "image_url": "https://media.falabella.com.co/falabellaCO/150663139_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.753498"
+    },
+    {
+      "name": "Portátil 15.6 HD Intel Core i5 -1235U RAM 12GB 512GB SSD Plata",
       "price": 1649900.0,
       "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/149181484/celular-iphone-12-pro-5g-256gb-grafito-reacondicionado/149181485",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.653853"
+      "category": "computadores",
+      "rating": 5.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/126171144/portatil-hp-intel-core-i5-1235u-ssd-512gb-ram-12gb-led-15-6-hd/126171146",
+      "image_url": "https://media.falabella.com.co/falabellaCO/126171146_001/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.755026"
     },
     {
-      "name": "Celular | REDMI Note 15 | 5G |256G |8GB RAM",
-      "price": 1149900.0,
+      "name": "TODO EN UNO AIO A100 INTEL CELERON N100 16GB RAM 512GB SSD 238 LED",
+      "price": 1619900.0,
       "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73521058/celular-redmi-note-15-5g-256g-8gb-ram/73521059",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.660035"
+      "category": "computadores",
+      "rating": 1.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/142094585/todo-en-uno-lenovo-aio-a100-intel-celeron-n100-16gb-ram-512gb-ssd-238-led/142094588",
+      "image_url": "https://media.falabella.com.co/falabellaCO/142094588_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.756091"
     },
     {
-      "name": "CELULAR REDMI NOTE 14 8+256GB AZUL",
-      "price": 679.9,
+      "name": "TODO EN UNO AIO A100 INTEL CELERON N100 8GB RAM 512GB SSD 238 LED",
+      "price": 1319900.0,
       "store": "Falabella",
-      "category": "celulares",
-      "rating": 24.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/140754788/CELULAR-XIAOMI-REDMI-NOTE-14-8+256GB-AZUL/140754789",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.662031"
-    },
-    {
-      "name": "Celular Edge 50 Fusion 12GB 512GB 5G Verde Azulado",
-      "price": 1124900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/150969534/celular-motorola-edge-50-fusion-12gb-512gb-5g-verde-azulado/150969535",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.664782"
-    },
-    {
-      "name": "Celular iPhone 14 128 GB 5G Negro Reacondicionado + Panel Solar",
-      "price": 1919900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/149061057/celular-iphone-14-5g-128gb-negro-reacondicionado/149061058",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.672445"
-    },
-    {
-      "name": "Celular Redmi 15 |4G |256 GB |8GB RAM",
-      "price": 749.9,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73388634/Celular-Redmi-15-4G-256-GB-8GB-RAM/73388635",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.676426"
-    },
-    {
-      "name": "Celular iPhone 14 128 GB 5G Blanco Reacondicionado + Panel Solar",
-      "price": 1919900.0,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/149062447/celular-iphone-14-5g-128gb-blanco-reacondicionado/149062448",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.680056"
-    },
-    {
-      "name": "Redmi 15C Black 4GB 128GB Batería 6000mAh + Pantalla 69",
-      "price": 527.89,
-      "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/147131282/Redmi-15C-Black-4GB-128GB-Bateria-6000mAh-+-Pantalla-69/147131283",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.682870"
-    },
-    {
-      "name": "Celular 14T 5G 512GB | 12GB | Cámara Posterior 50 Mpx + 50Mpx (2X) +12Mpx | Cámara Frontal 32MP | Pantalla 6,67\" Pulgadas | MediaTek Dimensity 8300 Ultra",
-      "price": 1999900.0,
-      "store": "Falabella",
-      "category": "celulares",
+      "category": "computadores",
       "rating": 3.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/73210825/Celular-Xiaomi-14T-5G-512GB-12GB-Camara-Posterior-50-Mpx-+-50Mpx-(2X)-+12Mpx-Camara-Frontal-32MP-Pantalla-6,67-Pulgadas-MediaTek-Dimensity-8300-Ultra-/73210825",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.685431"
+      "url": "https://www.falabella.com.co/falabella-co/product/142093714/todo-en-uno-lenovo-aio-a100-intel-celeron-n100-8gb-ram-512gb-ssd-238-led/142093715",
+      "image_url": "https://media.falabella.com.co/falabellaCO/142093715_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.757915"
     },
     {
-      "name": "Celular G06 4G 128Gb 4Ram Azul",
-      "price": 385.9,
+      "name": "Portátil Vivobook 15 | AMD Ryzen 7 | LPDDR5 16GB| 512 GB SSD de almacenamiento | Windows 11 |15.6 Pulgadas |M1502YA-NJ180W | Computador portátil",
+      "price": 2299900.0,
       "store": "Falabella",
-      "category": "celulares",
+      "category": "computadores",
+      "rating": 4.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/72977190/Portatil-ASUS-Vivobook-15-AMD-Ryzen-7-16GB-de-RAM-512GB-SSD-de-almacenamiento-Windows-11-15.6-Pulgadas-M1502YA-NJ180W-Computador-portatil/72977190",
+      "image_url": "https://media.falabella.com.co/falabellaCO/72977190_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.760208"
+    },
+    {
+      "name": "PORTATIL - RYZEN 5 7520U - 16GB RAM - 512GB SSD - 14\" FHD - MOD: V14 G4 AMN - COMPUTADOR",
+      "price": 1689900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": 4.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/130491446/PORTATIL-LENOVO-RYZEN-5-7520U-16GB-RAM-512GB-SSD-14-FHD-MOD:-V14-G4-AMN-COMPUTADOR/130491447",
+      "image_url": "https://media.falabella.com.co/falabellaCO/130491447_001/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.761643"
+    },
+    {
+      "name": "Computador Todo en Uno | Intel Core i5 | 8 GB RAM | 512 GB SSD Almacenamient | Windows 11 Home | All-In-One 24-Cr0350La |",
+      "price": 2199000.0,
+      "store": "Falabella",
+      "category": "computadores",
       "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/149118222/Celular-Motorola-G06-4G-128Gb-4Ram-Azul/149118223",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.689396"
+      "url": "https://www.falabella.com.co/falabella-co/product/73373049/Computador-Todo-en-Uno-Hp-Intel-Core-i5-8-GB-RAM-512-GB-SSD-Almacenamient-Windows-11-Home-All-In-One-24-Cr0350La-/73373049",
+      "image_url": "https://media.falabella.com.co/falabellaCO/73373049_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.764372"
     },
     {
-      "name": "CELULAR GALAXY A16 8+256GB NEGRO",
-      "price": 669.9,
+      "name": "PORTATIL 15 INTEL CORE I7-1355U SSD 1TB RAM 16GB LED 15,6\" FHD",
+      "price": 2669900.0,
       "store": "Falabella",
-      "category": "celulares",
-      "rating": 27.0,
-      "url": "https://www.falabella.com.co/falabella-co/product/140757224/CELULAR-SAMSUNG-GALAXY-A16-8+256GB-NEGRO/140757225",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.691781"
+      "category": "computadores",
+      "rating": 2.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/124482275/portatil-dell-15-intel-core-i7-1355u-ssd-1tb-ram-16gb-led-15-6-fhd/124482276",
+      "image_url": "https://media.falabella.com.co/falabellaCO/124482276_001/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.766320"
     },
     {
-      "name": "Celular 14T Pro 5G | 512GB | 12GB RAM",
-      "price": 2799900.0,
+      "name": "Portátil 15.6” FHD Intel Core i5 13ª Gen 24GB RAM 512GB SSD Plata",
+      "price": 2099890.0,
       "store": "Falabella",
-      "category": "celulares",
+      "category": "computadores",
+      "rating": 77.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/123348792/portatil-dell-inspiron-intel-core-i5-1334u-ssd-512gb-ram-24gb-led-15-6-fhd/123348793",
+      "image_url": "https://media.falabella.com.co/falabellaCO/123348793_001/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.767362"
+    },
+    {
+      "name": "Computador Portátil 14 Pulgadas Intel Core i5-13420H 8GB Ram DDR5 512GB SSD Gratis Mouse",
+      "price": 2199900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": 1.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/145374486/Computador-Portatil-Asus-14-Pulgadas-Intel-Core-i5-13420H-8GB-Ram-DDR5-512GB-SSD-Gratis-Mouse/145374487",
+      "image_url": "https://media.falabella.com.co/falabellaCO/145374487_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.768263"
+    },
+    {
+      "name": "Computador portátil 14 Azul",
+      "price": 2160000.0,
+      "store": "Falabella",
+      "category": "computadores",
       "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73210828/Celular-Xiaomi-14T-Pro-5G-512GB-12GB-RAM/73210830",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.694550"
+      "url": "https://www.falabella.com.co/falabella-co/product/123216307/computador-portatil-LENOVO-14-Azul/123216308",
+      "image_url": "https://media.falabella.com.co/falabellaCO/123216308_01/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.770599"
     },
     {
-      "name": "Celular Galaxy A07 64GB 4GB Verde",
-      "price": 289.9,
+      "name": "PORTATIL AMD RYZEN 7-7730U SSD 1TB RAM 32GB LED 15,6 FULL HD",
+      "price": 2999900.0,
       "store": "Falabella",
-      "category": "celulares",
-      "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/151033655/celular-samsung-galaxy-a07-64gb-4gb-verde/151033656",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.704244"
+      "category": "computadores",
+      "rating": 9.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/127620380/portatil-hp-amd-ryzen-7-7730u-ssd-1tb-ram-32gb-led-15-6-full-hd/127620385",
+      "image_url": "https://media.falabella.com.co/falabellaCO/127620385_001/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.771640"
     },
     {
-      "name": "Celular iPhone 13 128 GB 5G Blanco Reacondicionado + Panel Solar",
-      "price": 1699900.0,
+      "name": "Portátil Zenbook Duo | Intel Core Ultra9 Serie H | 32 GB de RAM | 1TB SSD de almacenamiento | Windows 11 |14 Pulgadas |UX8406CA-PZ961W | Computador portátil",
+      "price": 9199900.0,
       "store": "Falabella",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/149060851/celular-iphone-13-5g-128gb-blanco-reacondicionado/149060852",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.713355"
+      "url": "https://www.falabella.com.co/falabella-co/product/73244783/Portatil-ASUS-Zenbook-Duo-Intel-Core-Ultra9-Serie-H-32-GB-de-RAM-1TB-SSD-de-almacenamiento-Windows-11-14-Pulgadas-UX8406CA-PZ961W-Computador-portatil/73244783",
+      "image_url": "https://media.falabella.com.co/falabellaCO/73244783_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.774322"
     },
     {
-      "name": "Celular Redmi 15C 256+4GB",
-      "price": 459.9,
+      "name": "Portátil Ideapad Slim 3 | Intel Core i3 | 8GB de RAM | 512GB SSD de Almacenamiento | Windows 11 | Pantalla 15.6 pulgadas | IP Slim 3 | Computador Portátil",
+      "price": 1599900.0,
       "store": "Falabella",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/146269562/celular-xiaomi-redmi-15c-2564gb-azul/151544857?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwMjk3NTE1Mw%253D%253D%2522%252C%2522adIdentifier%2522%253A%25227Q4MRgoQBpr2d8lsekSTBLXGWi4KyxIQAZk1np3ReiC0EtLQ0mobexoQAZhmZIM1dtCKsqqCmTSicSINCgkxNDYyNjk1NjIQATD52WpAmHVIAVDY_bCpzTNgmHVyEAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A55%252C%2522signal%2522%253A%2522celulares%2522%252C%2522searchTerm%2522%253A%2522celulares%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
-      "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.720210"
+      "url": "https://www.falabella.com.co/falabella-co/product/73298253/Portatil-Lenovo-Ideapad-Slim-3-Intel-Core-i3-8GB-de-RAM-512GB-SSD-de-Almacenamiento-Windows-11-Pantalla-15.6-pulgadas-IP-Slim-3-Computador-Portatil/73298253",
+      "image_url": "https://media.falabella.com.co/falabellaCO/73298253_1/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.777082"
     },
     {
-      "name": "Celular | ZTE Nubia Neo 3 GT | 5G | 512 GB | 12 GB",
+      "name": "LapTop Gamer Tuf F16 Intel Core I7 14650hx Ram 32gb Ddr5 Ssd 1tb Rtx 5060 Computador Portátil",
+      "price": 7699900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/150987362/laptop-gamer-asus-tuf-f16-intel-core-i7-14650hx-ram-32gb-ddr5-ssd-1tb-rtx-5060-computador-portatil/150987363",
+      "image_url": "https://media.falabella.com.co/falabellaCO/150987363_001/width=240,height=240,quality=70,format=webp,fit=pad",
+      "extracted_at": "2026-03-09T19:55:10.778975"
+    },
+    {
+      "name": "Computador Portátil Gamer Victus AMD Ryzen7 7445HS 16/512 RTX 4050 15,6 FHD WIN 11 HOME",
+      "price": 3619900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/152061493/computador-portatil-gamer-hp-victus-amd-ryzen7-7445hs-16-512-rtx-4050-15-6-fhd-win-11-home/152061494?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwNDEwMjk5MA%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522YAc9yAoQBpr2vk6mc8SjBMjo9y1t6xIQAZzGOlACdFGFLRRh0NLUIRoQAZuQs5KdelGxwEof0Lt2diINCgkxNTIwNjE0OTMQATDzs39A6YoVSAFQ9-z1qc0zYOmKFXIQAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A29%252C%2522signal%2522%253A%2522computadores%2522%252C%2522searchTerm%2522%253A%2522computadores%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.781309"
+    },
+    {
+      "name": "Computador Portatil Gamer Tuf F16 Intel Core I7 14650hx 32/1tb Rtx 5070 8gb 165hz Fhd Win 11 H",
+      "price": 8249900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/151973320/computador-portatil-gamer-asus-tuf-f16-intel-core-i7-14650hx-32-1tb-rtx-5070-8gb-165hz-fhd-win-11-h/151973321?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwNDEwMjk5MA%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522YcGyqwoQBpr2vk6mc8SjBMjo9y1t6xIQAZzGOlACdFGFLRRh0NLUIRoQAZuQs5KdelGxwEof0Lt2diINCgkxNTE5NzMzMjAQATDzs39AwPwVSAFQ9-z1qc0zYMD8FXIQAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A30%252C%2522signal%2522%253A%2522computadores%2522%252C%2522searchTerm%2522%253A%2522computadores%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.784209"
+    },
+    {
+      "name": "Portátil AMD V14 R5 7520u Ram 16gb DDR5 Ssd 512gb Fhd Computador Portátil",
+      "price": 2628429.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/143473124/portatil-lenovo-amd-v14-r5-7520u-ram-16gb-ddr5-ssd-512gb-fhd-computador-portatil/143473136",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.786141"
+    },
+    {
+      "name": "Computador A100 | Intel N100 | 8GB de RAM | 512GB SSD de Almacenamiento | Windows 11 | Pantalla 23.8 pulgadas | Incluye Mouse y Teclado | A100 | All In One | Todo en Uno",
       "price": 1499900.0,
       "store": "Falabella",
-      "category": "celulares",
+      "category": "computadores",
       "rating": null,
-      "url": "https://www.falabella.com.co/falabella-co/product/73505038/celular-zte-nubia-neo-3-gt-5g-512-gb-12-gb/73505038?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwMjk3NTE1Mw%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522amAiZQoQBpr2d8lsekSTBLXGWi4KyxIQAZy_J2hEdQC7e_kfgxUiyhoQAZhmZVTjfyGTMFAw4eQuGyIMCgg3MzUwNTAzOBABMMrjakDkpQVIAVDY_bCpzTNg5KUFchAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A56%252C%2522signal%2522%253A%2522celulares%2522%252C%2522searchTerm%2522%253A%2522celulares%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
+      "url": "https://www.falabella.com.co/falabella-co/product/73371927/Computador-Lenovo-A100-Intel-N100-8GB-de-RAM-512GB-SSD-de-Almacenamiento-Windows-11-Pantalla-23.8-pulgadas-Incluye-Mouse-y-Teclado-A100-All-In-One-Todo-en-Uno/73371927",
       "image_url": null,
-      "extracted_at": "2026-03-09T19:36:27.724582"
+      "extracted_at": "2026-03-09T19:55:10.790548"
+    },
+    {
+      "name": "Portátil Intel Core I5 13420h Ram 24gb Ssd 512gb FHD Computador portátil",
+      "price": 2399900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/150797509/portatil-asus-intel-core-i5-13420h-ram-24gb-ssd-512gb-fhd-computador-portatil/150797510",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.795437"
+    },
+    {
+      "name": "Portátil Ideapad Intel I7 13620h Ram 16gb Ssd 1 Tb Computador Portátil",
+      "price": 3199900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/145999940/Portatil-Lenovo-Ideapad-Intel-I7-13620h-Ram-16gb-Ssd-1-Tb-Computador-Portatil/145999941",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.799889"
+    },
+    {
+      "name": "Portátil Intel Core I5 1334u Ram 12gb Ssd 512gb 15,6 Pul Computador Portátil",
+      "price": 1859900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/149754645/Portatil-Dell-Intel-Core-I5-1334u-Ram-12gb-Ssd-512gb-15,6-Pul-Computador-Portatil/149754646",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.802157"
+    },
+    {
+      "name": "Portátil | Intel Core Ultra 7| 16 GB RAM | 512 GB SSD Almacenamiento| 15.6 pulgadas | Windows 11 Home |15-Fd2078La | Computador portátil",
+      "price": 3699000.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73354815/Portatil-HP-Intel-Core-Ultra-7-16-GB-RAM-512-GB-SSD-Almacenamiento-15.6-pulgadas-Windows-11-Home-15-Fd2078La-Computador-portatil/73354815",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.809907"
+    },
+    {
+      "name": "Portátil Vivobook S16 | AMD Ryzen 9 | 16 GB de RAM | 1TB SSD de almacenamiento | Windows 11 |16 Pulgadas | M3607HA-RP064W | Computador portátil",
+      "price": 4199900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73323662/Portatil-ASUS-Vivobook-S16-AMD-Ryzen-9-16-GB-de-RAM-1TB-SSD-de-almacenamiento-Windows-11-16-Pulgadas-M3607HA-RP064W-Computador-portatil/73323662",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.813345"
+    },
+    {
+      "name": "Portátil Gamer LOQ| Geforce RTX 3050 |Intel Core i5 Serie HX | 8GB de RAM | 512GB SSD de Almacenamiento | Windows 11 | Pantalla 15.6 pulgadas | LOQ | Computador Portátil",
+      "price": 2599900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73475665/portatil-gamer-lenovo-loq-geforce-rtx-3050-intel-core-i5-serie-hx-8gb-de-ram-512gb-ssd-de-almacenamiento-windows-11-pantalla-15-6-pulgadas-loq-computador-portatil/73475665",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.816901"
+    },
+    {
+      "name": "Portátil 245 G10 de 14\",FreeDOS 3.0, AMD Ryzen™ 3, 8GB RAM, 512GB Unidad de estado sólido, HD",
+      "price": 1182900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/150663449/hp-245-g10-notebook-pc/150663450",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.820255"
+    },
+    {
+      "name": "Portátil Vivobook 15 | Intel Core 5 | DDR4 8GB| 512GB SSD de almacenamiento | Windows 11 |15.6 Pulgadas |X1504VA-BQ598W | Computador portátil",
+      "price": 1799900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73416095/portatil-asus-vivobook-15-intel-core-5-ddr4-8gb-512gb-ssd-de-almacenamiento-windows-11-15-6-pulgadas-x1504va-bq598w-computador-portatil/73416095",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.823920"
+    },
+    {
+      "name": "Portátil |AMD Ryzen 5| 8 GB RAM | 1 TB SSD Almacenamiento| 15.6 pulgadas | Windows 11 Home |15-fc0260la | Computador portátil",
+      "price": 2099000.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73354812/Portatil-HP-AMD-Ryzen-5-8-GB-RAM-1-TB-SSD-Almacenamiento-15.6-pulgadas-Windows-11-Home-15-fc0260la-Computador-portatil/73354812",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.827403"
+    },
+    {
+      "name": "Portátil Zenbook A14 | Snapdragon X  X1 26 100 | 16GB de RAM | 1TB SSD de almacenamiento | Windows 11 |14 Pulgadas | UX3407QA-QD232W |  Computador portátil",
+      "price": 4899900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73221175/Portatil-ASUS-Zenbook-A14-Snapdragon-X-X1-26-100-16GB-de-RAM-1TB-SSD-de-almacenamiento-Windows-11-14-Pulgadas-UX3407QA-QD232W-Computador-portatil/73221175",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.830850"
+    },
+    {
+      "name": "Portátil 15.6 HD Intel Core i5 -1235U RAM 16GB 512GB SSD Plata",
+      "price": 1749900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": 14.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/123237186/portatil-hp-intel-core-i5-1235u-ssd-512gb-ram-16gb-led-15-6-hd/123237187",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.832602"
+    },
+    {
+      "name": "Portátil Gamer LOQ| Geforce RTX 3050 |Intel Core i5 Serie HX | 16GB de RAM | 512GB SSD de Almacenamiento | Windows 11 | Pantalla 15.6 pulgadas | LOQ | Computador Portátil",
+      "price": 3549900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73389629/portatil-gamer-lenovo-loq-geforce-rtx-3050-intel-core-i5-serie-hx-16gb-de-ram-512gb-ssd-de-almacenamiento-windows-11-pantalla-15-6-pulgadas-loq-computador-portatil/73389629",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.836489"
+    },
+    {
+      "name": "PORTATIL - CORE I5 13420H - 8GB RAM - 512GB SSD - 14 FHD MOD: V14 G4 IRU - COMPUTADOR",
+      "price": 1779900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/139923996/PORTATIL-LENOVO-CORE-I5-13420H-8GB-RAM-512GB-SSD-14-FHD-MOD:-V14-G4-IRU-COMPUTADOR/139923997",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.839637"
+    },
+    {
+      "name": "PORTATIL VIVOBOOK M1502YA-BQ925 RYZEN 7 5825U 16GB RAM 512GB SSD 15,6'' FHD",
+      "price": 1929900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/150122297/portatil-asus-vivobook-m1502ya-bq925-ryzen-7-5825u-16gb-ram-512gb-ssd-15-6-fhd/150122298",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.843376"
+    },
+    {
+      "name": "Portátil 14\" | Intel core i3 | 8GB de RAM | 512GB SSD | Windows 11 home",
+      "price": 1399000.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73397259/Portatil-HP-14-Intel-core-i3-8GB-de-RAM-512GB-SSD-Windows-11-home/73397259",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.847330"
+    },
+    {
+      "name": "Portátil Ideapad Slim 5 Ci7-13620h 16gb Ssd 512gb 16 W11 Home",
+      "price": 2619900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/150514415/portatil-lenovo-ideapad-slim-5-ci7-13620h-16gb-ssd-512gb-16-w11-home/150514416",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.850513"
+    },
+    {
+      "name": "PORTATIL 15 INTEL CORE I7-1355U SSD 1TB RAM 24GB LED 15,6 FHD",
+      "price": 2859900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": 5.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/124482604/portatil-dell-15-intel-core-i7-1355u-ssd-1tb-ram-24gb-led-15-6-fhd/124482605",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.851886"
+    },
+    {
+      "name": "PORTATIL - RYZEN 3 7320U - 16GB RAM - 256GB SSD - 14\" FHD - MOD: V14 G4 AMN - COMPUTADOR",
+      "price": 1379900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": 3.0,
+      "url": "https://www.falabella.com.co/falabella-co/product/132360878/PORTATIL-LENOVO-RYZEN-3-7320U-16GB-RAM-256GB-SSD-14-FHD-MOD:-V14-G4-AMN-COMPUTADOR/132360879",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.854523"
+    },
+    {
+      "name": "PORTATIL - CORE I5 13420H - 24GB RAM - 512GB SSD - 14 FHD MOD: V14 G4 IRU - COMPUTADOR",
+      "price": 2239900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/147704412/PORTATIL-LENOVO-CORE-I5-13420H-24GB-RAM-512GB-SSD-14-FHD-MOD:-V14-G4-IRU-COMPUTADOR/147704413",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.859808"
+    },
+    {
+      "name": "Laptop 15-Fd0274La Intel Core I7 16 Gb 512 Gb Ssd 15.6 Fhd Windows 11 Home",
+      "price": 2618000.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/73424389/laptop-hp-15-fd0274la-intel-core-i7-16-gb-512-gb-ssd-15-6-fhd-windows-11-home/73424389",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.865457"
+    },
+    {
+      "name": "PORTÁTIL INTEL CORE I5 1334U 512GB SSD 8GB RAM 15,6\" FHD PLATINUM SILVER",
+      "price": 1649900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/144271622/portatil-dell-intel-core-i5-1334u-512gb-ssd-8gb-ram-15-6-fhd-platinum-silver/144271623",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.868250"
+    },
+    {
+      "name": "PORTATIL EXPERTBOOK B1403CVA / INTEL CORE i3 1315U / 16GB RAM DDR5 / SSD 1TB / 14” FHD",
+      "price": 1889900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/150610487/portatil-asus-expertbook-b1403cva-intel-core-i3-1315u-16gb-ram-ddr5-ssd-1tb-14-fhd/150610488",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.871319"
+    },
+    {
+      "name": "Computador Portátil Gamer LOQ Core I5 12450HX 16/512 SSD RTX 4050 6GB 15,6 FHD WIN 11 HOME",
+      "price": 3809900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/151280923/portatil-lenovo-loq-intel-core-i5-12450hx-ram-16-512-ssd-15-6-fhd-win-11-home/151280924?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwNDEwMjk5MA%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522OJaH6goQBpr2vk6mc8SjBMjo9y1t6xIQAZzGOlACdFGFLRRh0NLUIRoQAZuQs5KdelGxwEof0Lt2diINCgkxNTEyODA5MjMQATDzs39AseUMSAFQ9-z1qc0zYLHlDHIQAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A55%252C%2522signal%2522%253A%2522computadores%2522%252C%2522searchTerm%2522%253A%2522computadores%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.874394"
+    },
+    {
+      "name": "Computador Portátil Gamer Victus AMD RYZEN 7 7445HS 32/1 TB RTX 4050 15,6 FHD WIN 11 HOME",
+      "price": 5609900.0,
+      "store": "Falabella",
+      "category": "computadores",
+      "rating": null,
+      "url": "https://www.falabella.com.co/falabella-co/product/151242369/portatil-gamer-hp-victus-amd-ryzen-7-32-1-tb-rtx-4050-15-6-fhd-win-11-home/151242370?sponsoredClickData=%257B%2522isXLP%2522%253Atrue%252C%2522pageType%2522%253A%2522search%2522%252C%2522adType%2522%253A%2522products%2522%252C%2522platform%2522%253A%2522desktop%2522%252C%2522regionCode%2522%253A%2522co%2522%252C%2522context%2522%253A%257B%2522userIdentifier%2522%253A%2522MTc3MzEwNDEwMjk5MA%253D%253D%2522%252C%2522adIdentifier%2522%253A%2522Ymk2EQoQBpr2vk6mc8SjBMjo9y1t6xIQAZzGOlACdFGFLRRh0NLUIRoQAZuQs5KdelGxwEof0Lt2diINCgkxNTEyNDIzNjkQATDzs39A7L8USAFQ9-z1qc0zYOy_FHIQAAAAAAAAAAAAAAAAAAAAAA%2522%252C%2522slot%2522%253A56%252C%2522signal%2522%253A%2522computadores%2522%252C%2522searchTerm%2522%253A%2522computadores%2522%252C%2522providerName%2522%253A%2522topsort%2522%257D%257D",
+      "image_url": null,
+      "extracted_at": "2026-03-09T19:55:10.877585"
     }
   ]
 }
