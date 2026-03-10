@@ -4,6 +4,7 @@ Permite intercambiar proveedores de IA (Ollama, LM Studio)
 """
 import requests
 import logging
+import time
 from typing import Optional
 from abc import ABC, abstractmethod
 
@@ -31,26 +32,44 @@ class BaseLLMStrategy(ILLMStrategy, ABC):
     def model_name(self) -> str:
         return self._model
     
-    def _make_request(self, endpoint: str, payload: dict) -> Optional[dict]:
+    def _make_request(self, endpoint: str, payload: dict, retries: int = 2) -> Optional[dict]:
         """
-        Realiza una petición HTTP al servicio LLM.
+        Realiza una petición HTTP al servicio LLM con reintentos automáticos.
         Maneja errores para no detener la ejecución.
         """
         url = f"{self._base_url}{endpoint}"
-        try:
-            logger.info(f"Enviando petición a {url}...")
-            response = requests.post(url, json=payload, timeout=300)  # 5 minutos
-            response.raise_for_status()
-            return response.json()
-        except requests.exceptions.ConnectionError:
-            logger.error(f"No se pudo conectar a {self.provider_name} en {self._base_url}")
-            return None
-        except requests.exceptions.Timeout:
-            logger.error(f"Timeout al conectar con {self.provider_name} (modelo puede estar procesando)")
-            return None
-        except requests.exceptions.RequestException as e:
-            logger.error(f"Error en petición a {self.provider_name}: {e}")
-            return None
+        
+        for attempt in range(retries + 1):
+            try:
+                if attempt > 0:
+                    logger.info(f"Reintento {attempt}/{retries}...")
+                logger.info(f"Enviando petición a {url}...")
+                response = requests.post(url, json=payload, timeout=300)  # 5 minutos
+                response.raise_for_status()
+                return response.json()
+            except requests.exceptions.ConnectionError:
+                logger.error(f"No se pudo conectar a {self.provider_name} en {self._base_url}")
+                if attempt < retries:
+                    logger.info("Reintentando en 5 segundos...")
+                    time.sleep(5)
+                    continue
+                return None
+            except requests.exceptions.Timeout:
+                logger.error(f"Timeout al conectar con {self.provider_name} (modelo cargando...)")
+                if attempt < retries:
+                    logger.info("Reintentando en 10 segundos...")
+                    time.sleep(10)
+                    continue
+                return None
+            except requests.exceptions.RequestException as e:
+                logger.error(f"Error en petición a {self.provider_name}: {e}")
+                if attempt < retries:
+                    logger.info("Reintentando...")
+                    time.sleep(5)
+                    continue
+                return None
+        
+        return None
     
     def analyze_products(self, products_data: str, query: str) -> AIResponse:
         """
