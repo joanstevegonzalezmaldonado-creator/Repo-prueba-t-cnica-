@@ -1,0 +1,165 @@
+{
+  "total_products": 16,
+  "products": [
+    {
+      "name": "Celular SAMSUNG Galaxy A36  256 GB 8 GB RAM Gris + Cargador",
+      "price": 999900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-gris-buds-core-3240980/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.058174"
+    },
+    {
+      "name": "Celular XIAOMI REDMI Note 15 Pro 5G 512 GB 8 GB RAM",
+      "price": 1499900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-xiaomi-redmi-note-15-pro-5g-512-gb-8-gb-ram-3240502/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.059827"
+    },
+    {
+      "name": "Iphone 13 128Gb Blanco Reacondicionado",
+      "price": 5999900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/iphone-13-128gb-blanco-reacondicionado-104627965-mp/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/29483062-300-auto/iphone-13-128gb-blanco-reacondicionado.jpg?v=638895114834500000",
+      "extracted_at": "2026-03-09T13:20:33.061266"
+    },
+    {
+      "name": "Celular XIAOMI REDMI Note 15 Pro 5G 512 GB 8 GB RAM",
+      "price": 1499900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-xiaomi-redmi-note-15-pro-5g-512-gb-8-gb-ram-3240500/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.062808"
+    },
+    {
+      "name": "Celular XIAOMI Redmi 15C 256 GB 8 GB RAM",
+      "price": 573900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-xiaomi-redmi-15c-256-gb-8-gb-ram-3224769/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.064419"
+    },
+    {
+      "name": "Iphone 17 Pro Max 256Gb Plata Esim",
+      "price": 8999900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/iphone-17-pro-max-256gb-plata-esim-104768840-mp/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/31306665-300-auto/iphone-17-pro-max-256gb-plata-esim.jpg?v=638961847094500000",
+      "extracted_at": "2026-03-09T13:20:33.066481"
+    },
+    {
+      "name": "Celular SAMSUNG Galaxy A36  5G 256 GB 8 GB RAM Gris",
+      "price": 1784900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": 5.0,
+      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-gris-3206236/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.069454"
+    },
+    {
+      "name": "Celular SAMSUNG Galaxy A26  5G 256 GB 8 GB RAM Negro",
+      "price": 832400.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-samsung-galaxy-a26-256-gb-8-gb-ram-negro-3206234/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.071605"
+    },
+    {
+      "name": "Celular SAMSUNG Galaxy A36  5G 256 GB 8 GB RAM Negro",
+      "price": 1784900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-negro-3206238/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.072837"
+    },
+    {
+      "name": "Celular MOTOROLA G15 256 GB 4 GB RAM Gris",
+      "price": 529937.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-motorola-g15-256gb-256-gb-4-gb-ram-gris-3198397/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.074394"
+    },
+    {
+      "name": "Celular Samsung Galaxy A06 128Gb 4Gb Ram 4G Verde",
+      "price": 878010.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-samsung-galaxy-a06-128gb-4gb-ram-4g-verde-103725170-mp/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/26516433-300-auto/celular-samsung-galaxy-a06-128gb-4gb-ram-4g-verde.jpg?v=638731561707500000",
+      "extracted_at": "2026-03-09T13:20:33.075515"
+    },
+    {
+      "name": "Celular SAMSUNG Galaxy A36  256 GB 8 GB RAM Verde + Cargador",
+      "price": 999900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-samsung-galaxy-a36-256-gb-8-gb-ram-verde-buds-core-3240982/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.077644"
+    },
+    {
+      "name": "Celular HONOR X8C 512 GB 8 GB RAM Purpura",
+      "price": 835000.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-honor-x8c-512-gb-8-gb-ram-purpura-3211833/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.079439"
+    },
+    {
+      "name": "Celular MOTOROLA G55 5G 256 GB 8 GB RAM Rosado",
+      "price": 1399900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": 5.0,
+      "url": "https://www.exito.com/celular-motorola-g55-256gb-256-gb-8-gb-ram-rosado-3198400/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.080638"
+    },
+    {
+      "name": "Iphone 13 128Gb Rosa Reacondicionado",
+      "price": 2999900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": 3.0,
+      "url": "https://www.exito.com/iphone-13-reacondicionado-128-gb-rosa-102434824-mp/p",
+      "image_url": "https://exitocol.vtexassets.com/arquivos/ids/18487200-300-auto/iphone-13-reacondicionado-128-gb-rosa.jpg?v=638973409609430000",
+      "extracted_at": "2026-03-09T13:20:33.081801"
+    },
+    {
+      "name": "Celular MOTOROLA Edge 60 Fusion 5G 256 GB 8 GB RAM Café",
+      "price": 919900.0,
+      "store": "Exito",
+      "category": "celulares",
+      "rating": null,
+      "url": "https://www.exito.com/celular-motorola-edge-60-fusion-5g-256-gb-8-gb-ram-cafe-3226180/p",
+      "image_url": "https://d3ez54m90carx6.cloudfront.net/Envio-gratis-actualizado-6cpq4iolrjcptos.png",
+      "extracted_at": "2026-03-09T13:20:33.083748"
+    }
+  ]
+}

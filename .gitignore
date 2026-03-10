@@ -13,9 +13,6 @@ build/
 dist/
 *.egg-info/
 
-# Archivos de salida
-output/
-
 # IDE
 .vscode/
 .idea/

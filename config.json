@@ -15,7 +15,7 @@
     
     "custom_queries": [
         "Genera un resumen ejecutivo de los productos encontrados. Incluye estadísticas clave como precio promedio, rango de precios y número de productos por tienda.",
-        "Identifica los 5 productos con mejor relación calidad-precio basándote en el nombre y precio. Justifica brevemente cada selección.",
+        "Identifica los 3 productos con mejor relación calidad-precio basándote en el nombre y precio. Justifica brevemente cada selección.",
         "Analiza tendencias de precios entre las tiendas. ¿Cuál tienda ofrece mejores precios en general?"
     ]
 }
