@@ -1,0 +1,265 @@
+<mxfile host="app.diagrams.net" modified="2026-03-10T00:00:00.000Z" agent="draw.io" version="24.0.0">
+  <diagram id="template-method" name="Patrón Template Method - Base Scraper">
+    <mxGraphModel dx="1422" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Título -->
+        <mxCell id="title" value="&lt;b&gt;Patrón Template Method - Algoritmo de Scraping&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="380" y="20" width="480" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- ==================== LADO IZQUIERDO: DIAGRAMA DE CLASES ==================== -->
+        <mxCell id="class_title" value="&lt;b&gt;Diagrama de Clases&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="170" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- Abstract Class: BaseScraper -->
+        <mxCell id="base" value="&lt;b&gt;BaseScraper&lt;/b&gt;&#xa;(Clase abstracta)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;collapsible=0;marginBottom=0;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="330" height="310" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_attr1" value="# _store_name: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="base">
+          <mxGeometry y="40" width="330" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_attr2" value="# _base_url: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="base">
+          <mxGeometry y="62" width="330" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_attr3" value="# _driver: WebDriver" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="base">
+          <mxGeometry y="84" width="330" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_sep" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=10;rotatable=0;labelPosition=left;points=[];portConstraint=eastwest;strokeColor=#d6b656;" vertex="1" parent="base">
+          <mxGeometry y="106" width="330" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_m1" value="+ scrape_category(cat, pages): list    «template»" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;fontStyle=1;fontColor=#CC0000;" vertex="1" parent="base">
+          <mxGeometry y="114" width="330" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_m2" value="# _init_driver()                                   «concreto»" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="base">
+          <mxGeometry y="139" width="330" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_m3" value="# _fetch_page(url)                                «concreto»" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="base">
+          <mxGeometry y="164" width="330" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_m4" value="# _scroll_page()                                    «concreto»" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="base">
+          <mxGeometry y="189" width="330" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_m5" value="# _close_driver()                                   «concreto»" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="base">
+          <mxGeometry y="214" width="330" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_m6" value="# get_category_url(cat, page): str     «hook abstracto»" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;fontStyle=2;fontColor=#0000CC;" vertex="1" parent="base">
+          <mxGeometry y="239" width="330" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_m7" value="# parse_products(html): list               «hook abstracto»" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;fontStyle=2;fontColor=#0000CC;" vertex="1" parent="base">
+          <mxGeometry y="264" width="330" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="b_m8" value="# _parse_price(price_text): float       «concreto»" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="base">
+          <mxGeometry y="289" width="330" height="22" as="geometry"/>
+        </mxCell>
+
+        <!-- Concrete: ExitoScraper -->
+        <mxCell id="exito" value="&lt;b&gt;ExitoScraper&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;collapsible=0;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="130" height="115" as="geometry"/>
+        </mxCell>
+        <mxCell id="ex_sep" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=10;rotatable=0;labelPosition=left;points=[];portConstraint=eastwest;" vertex="1" parent="exito">
+          <mxGeometry y="30" width="130" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="ex_m1" value="get_category_url()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;fontColor=#0000CC;" vertex="1" parent="exito">
+          <mxGeometry y="38" width="130" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="ex_m2" value="parse_products()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;fontColor=#0000CC;" vertex="1" parent="exito">
+          <mxGeometry y="60" width="130" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="ex_note" value="exito.com&#xa;7 selectores CSS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;fontColor=#666666;" vertex="1" parent="exito">
+          <mxGeometry y="82" width="130" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- Concrete: JumboScraper -->
+        <mxCell id="jumbo" value="&lt;b&gt;JumboScraper&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;collapsible=0;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="130" height="115" as="geometry"/>
+        </mxCell>
+        <mxCell id="ju_sep" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=10;rotatable=0;labelPosition=left;points=[];portConstraint=eastwest;" vertex="1" parent="jumbo">
+          <mxGeometry y="30" width="130" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="ju_m1" value="get_category_url()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;fontColor=#0000CC;" vertex="1" parent="jumbo">
+          <mxGeometry y="38" width="130" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="ju_m2" value="parse_products()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;fontColor=#0000CC;" vertex="1" parent="jumbo">
+          <mxGeometry y="60" width="130" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="ju_note" value="tiendasjumbo.co&#xa;Selectores VTEX" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;fontColor=#666666;" vertex="1" parent="jumbo">
+          <mxGeometry y="82" width="130" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- Concrete: FalabellaScraper -->
+        <mxCell id="falabella" value="&lt;b&gt;FalabellaScraper&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;collapsible=0;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="130" height="115" as="geometry"/>
+        </mxCell>
+        <mxCell id="fa_sep" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=10;rotatable=0;labelPosition=left;points=[];portConstraint=eastwest;" vertex="1" parent="falabella">
+          <mxGeometry y="30" width="130" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="fa_m1" value="get_category_url()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;fontColor=#0000CC;" vertex="1" parent="falabella">
+          <mxGeometry y="38" width="130" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="fa_m2" value="parse_products()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;fontColor=#0000CC;" vertex="1" parent="falabella">
+          <mxGeometry y="60" width="130" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="fa_note" value="falabella.com.co&#xa;Selectores propios" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=9;fontColor=#666666;" vertex="1" parent="falabella">
+          <mxGeometry y="82" width="130" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- Herencia arrows -->
+        <mxCell id="rel1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=0;strokeWidth=2;" edge="1" source="exito" target="base" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel2" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=0;strokeWidth=2;" edge="1" source="jumbo" target="base" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel3" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=0;strokeWidth=2;" edge="1" source="falabella" target="base" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- ==================== LADO DERECHO: FLUJO DEL TEMPLATE METHOD ==================== -->
+        <mxCell id="flow_title" value="&lt;b&gt;Flujo del Template Method&lt;/b&gt;&#xa;scrape_category()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70" width="200" height="45" as="geometry"/>
+        </mxCell>
+
+        <!-- Start -->
+        <mxCell id="f_start" value="scrape_category()" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="125" width="140" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- Step 1 -->
+        <mxCell id="f1" value="_init_driver()&#xa;Crear Chrome headless" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="710" y="195" width="140" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="fe1" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="f_start" target="f1" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="f1tag" value="BaseScraper" style="text;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="205" width="70" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- Step 2 loop -->
+        <mxCell id="f2" value="Para cada página&#xa;(1..num_pages)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="160" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="fe2" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="f1" target="f2" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Step 3 hook -->
+        <mxCell id="f3" value="get_category_url()&#xa;URL específica tienda" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="345" width="140" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="fe3" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="f2" target="f3" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="f3tag" value="HOOK" style="text;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="355" width="40" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- Step 4 -->
+        <mxCell id="f4" value="_fetch_page(url)&#xa;Selenium navega a URL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="710" y="420" width="140" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="fe4" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="f3" target="f4" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="f4tag" value="BaseScraper" style="text;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="430" width="70" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- Step 5 scroll -->
+        <mxCell id="f5" value="_scroll_page()&#xa;Scroll para cargar JS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="710" y="495" width="140" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="fe5" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="f4" target="f5" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="f5tag" value="BaseScraper" style="text;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="505" width="70" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- Step 6 hook -->
+        <mxCell id="f6" value="parse_products(html)&#xa;Extrae productos con&#xa;selectores específicos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="570" width="160" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="fe6" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="f5" target="f6" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="f6tag" value="HOOK" style="text;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="580" width="40" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- Step 7 wait -->
+        <mxCell id="f7" value="time.sleep()&#xa;Espera anti-bot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="710" y="655" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="fe7" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="f6" target="f7" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Loop back arrow -->
+        <mxCell id="fe_loop" value="siguiente&#xa;página" style="edgeStyle=orthogonalEdgeStyle;fontSize=9;" edge="1" source="f7" target="f2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="675"/>
+              <mxPoint x="640" y="293"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- Step 8 close -->
+        <mxCell id="f8" value="_close_driver()&#xa;Cerrar navegador" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="710" y="725" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="fe8" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="f7" target="f8" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="f8tag" value="BaseScraper" style="text;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="733" width="70" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- Return -->
+        <mxCell id="f_end" value="return productos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="795" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="fe9" style="edgeStyle=orthogonalEdgeStyle;" edge="1" source="f8" target="f_end" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Leyenda -->
+        <mxCell id="legend_title" value="&lt;b&gt;Leyenda&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="980" y="125" width="70" height="25" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="leg1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="970" y="160" width="25" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="leg1t" value="Método concreto (BaseScraper)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="157" width="180" height="25" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="leg2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="970" y="195" width="25" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="leg2t" value="Método HOOK (subclases override)" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="192" width="200" height="25" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="leg3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="970" y="230" width="25" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="leg3t" value="Estructura de iteración" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="227" width="150" height="25" as="geometry"/>
+        </mxCell>
+
+        <!-- Nota explicativa -->
+        <mxCell id="note" value="&lt;b&gt;Patrón Template Method:&lt;/b&gt;&#xa;BaseScraper define el algoritmo completo&#xa;en scrape_category() (el &quot;template&quot;).&#xa;&#xa;Los métodos HOOK (get_category_url y&#xa;parse_products) son abstractos y cada&#xa;subclase los implementa según la&#xa;estructura HTML de cada tienda.&#xa;&#xa;Los pasos comunes (init_driver,&#xa;_fetch_page, _scroll_page, _close_driver)&#xa;se reutilizan sin duplicar código." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="960" y="310" width="270" height="200" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
